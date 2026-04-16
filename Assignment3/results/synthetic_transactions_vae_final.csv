@@ -1,0 +1,1501 @@
+age,gender,city,annual_income,product_category,purchase_amount,payment_method,is_returned
+19,Other,New York,127868,Clothing,749.7,Debit Card,False
+51,Male,San Antonio,116357,Home,618.46,Debit Card,False
+64,Male,Los Angeles,109905,Electronics,43.09,Credit Card,True
+35,Other,San Antonio,82789,Home,506.25,UPI,True
+49,Other,San Diego,92075,Clothing,26.81,PayPal,True
+54,Male,New York,115148,Clothing,1052.71,UPI,False
+57,Female,San Jose,45383,Electronics,74.05,PayPal,False
+50,Female,Philadelphia,149822,Home,1090.44,Debit Card,True
+31,Female,San Jose,84077,Clothing,135.72,UPI,True
+61,Male,Philadelphia,53368,Clothing,200.99,PayPal,False
+65,Male,San Jose,124094,Sports,451.7,Credit Card,True
+65,Female,San Jose,139552,Electronics,812.44,Credit Card,True
+62,Other,Chicago,108698,Clothing,113.35,Debit Card,False
+53,Other,Los Angeles,124060,Beauty,234.18,Debit Card,False
+52,Male,San Diego,84943,Sports,421.55,UPI,True
+61,Female,Los Angeles,111333,Sports,493.42,Credit Card,False
+54,Male,New York,78561,Home,940.13,Credit Card,False
+57,Female,New York,63822,Clothing,313.61,PayPal,True
+26,Female,Los Angeles,129301,Electronics,333.08,Debit Card,False
+23,Female,Philadelphia,99268,Beauty,85.3,PayPal,False
+48,Other,Chicago,145014,Electronics,941.43,UPI,False
+65,Other,Chicago,74327,Electronics,319.19,PayPal,True
+28,Male,Dallas,47951,Home,228.85,Debit Card,True
+46,Female,Dallas,70392,Clothing,15.62,UPI,True
+56,Female,San Diego,130239,Beauty,1295.14,Credit Card,True
+57,Male,San Antonio,88937,Electronics,125.35,UPI,True
+26,Other,New York,53248,Beauty,281.8,UPI,True
+28,Female,Philadelphia,57571,Beauty,81.52,PayPal,False
+57,Female,New York,59455,Clothing,357.22,UPI,True
+56,Other,San Diego,71224,Sports,476.64,Credit Card,True
+32,Male,Houston,73305,Clothing,75.28,PayPal,False
+51,Male,Los Angeles,88992,Sports,718.92,Credit Card,True
+33,Female,Philadelphia,30011,Beauty,119.87,UPI,True
+41,Male,Dallas,104887,Sports,1031.68,Credit Card,True
+46,Other,San Jose,59265,Home,173.4,PayPal,True
+23,Male,Chicago,47564,Beauty,483.19,UPI,False
+45,Male,San Diego,149822,Sports,142.93,UPI,True
+41,Other,Chicago,52713,Clothing,365.78,PayPal,True
+33,Female,Phoenix,34827,Sports,173.05,Debit Card,True
+31,Other,Phoenix,145178,Sports,543.46,Debit Card,True
+26,Female,Los Angeles,48855,Home,30.88,Debit Card,True
+53,Male,Dallas,122186,Sports,879.12,Debit Card,False
+65,Female,San Jose,90036,Electronics,487.59,UPI,False
+65,Male,Los Angeles,81295,Clothing,260.99,Debit Card,False
+25,Female,San Diego,101332,Beauty,558.93,PayPal,True
+31,Other,Philadelphia,36103,Beauty,467.03,PayPal,True
+57,Other,New York,38230,Home,179.65,Debit Card,True
+48,Male,San Diego,30011,Sports,105.86,PayPal,False
+21,Male,San Jose,77285,Sports,264.77,PayPal,True
+41,Male,Philadelphia,119045,Clothing,34.51,PayPal,True
+41,Other,Chicago,130197,Home,1135.02,UPI,True
+21,Female,Dallas,134211,Sports,873.19,Credit Card,True
+45,Male,Los Angeles,127736,Clothing,102.62,Credit Card,True
+38,Female,Los Angeles,92625,Beauty,65.76,PayPal,False
+48,Male,San Jose,68442,Clothing,436.48,Debit Card,False
+39,Female,San Diego,72222,Clothing,109.52,Credit Card,False
+26,Female,Houston,30011,Clothing,17.33,Credit Card,False
+45,Female,Phoenix,121645,Beauty,1179.13,Debit Card,False
+53,Other,San Diego,61747,Clothing,675.75,UPI,False
+48,Female,Chicago,116312,Clothing,470.01,Credit Card,False
+45,Female,Philadelphia,59914,Beauty,37.08,PayPal,False
+56,Male,Chicago,66118,Clothing,147.84,PayPal,False
+38,Female,San Diego,76379,Clothing,453.21,PayPal,False
+47,Male,San Jose,93279,Electronics,643.7,Debit Card,False
+41,Male,Chicago,91162,Home,514.21,UPI,True
+55,Other,Los Angeles,39054,Beauty,40.44,Credit Card,True
+38,Male,Los Angeles,109850,Home,1162.02,PayPal,True
+29,Other,Chicago,37260,Sports,245.4,Debit Card,True
+65,Male,Phoenix,114585,Electronics,117.88,UPI,True
+56,Male,Houston,121348,Sports,588.72,PayPal,True
+48,Male,Houston,70058,Home,15.52,Debit Card,True
+26,Other,San Jose,125997,Clothing,158.82,UPI,True
+57,Other,San Jose,128680,Electronics,1178.87,PayPal,True
+59,Male,Los Angeles,138868,Sports,483.84,PayPal,True
+33,Other,San Diego,96730,Beauty,65.23,UPI,False
+42,Other,San Diego,98879,Electronics,471.75,Credit Card,False
+21,Female,Phoenix,74004,Electronics,477.19,UPI,False
+56,Male,Philadelphia,67749,Sports,76.15,Debit Card,True
+36,Other,Los Angeles,52341,Home,229.85,Debit Card,True
+46,Male,New York,115220,Home,1114.61,Credit Card,True
+63,Other,San Jose,107434,Clothing,843.66,Debit Card,True
+60,Female,Houston,36054,Home,38.96,UPI,False
+42,Female,San Diego,149822,Beauty,965.15,Debit Card,True
+23,Male,San Jose,124629,Electronics,114.46,Debit Card,False
+26,Male,Dallas,30011,Clothing,194.42,PayPal,True
+27,Male,Philadelphia,66484,Sports,112.96,PayPal,False
+47,Other,Chicago,87848,Home,843.13,UPI,False
+28,Other,San Jose,74476,Electronics,697.25,Credit Card,False
+34,Other,Chicago,127035,Beauty,722.06,Credit Card,False
+63,Male,Houston,83321,Sports,527.85,Debit Card,True
+48,Male,Dallas,128470,Beauty,1409.9,Debit Card,False
+52,Male,San Antonio,81906,Sports,345.06,Debit Card,True
+50,Male,San Diego,126248,Sports,986.27,UPI,True
+40,Other,San Diego,78989,Beauty,424.61,Credit Card,True
+50,Female,Phoenix,145918,Clothing,1331.7,UPI,True
+41,Female,Houston,43114,Clothing,150.01,PayPal,True
+57,Other,New York,108041,Home,645.35,Credit Card,False
+32,Female,Chicago,118994,Clothing,1090.54,PayPal,False
+43,Female,Dallas,127411,Sports,884.35,Credit Card,True
+53,Other,Chicago,119089,Electronics,352.89,PayPal,True
+52,Other,San Diego,76571,Beauty,706.14,PayPal,False
+49,Other,Phoenix,67928,Beauty,276.53,UPI,True
+28,Male,Dallas,30011,Beauty,73.05,UPI,False
+33,Female,New York,71139,Sports,418.73,PayPal,True
+18,Female,Phoenix,107454,Electronics,502.02,Debit Card,False
+40,Male,San Antonio,58998,Clothing,149.36,PayPal,True
+38,Female,San Antonio,149604,Home,169.85,Debit Card,False
+59,Male,Los Angeles,107148,Home,464.29,Credit Card,True
+51,Female,Los Angeles,107414,Clothing,45.66,Debit Card,True
+24,Female,Los Angeles,34571,Electronics,170.35,PayPal,True
+27,Other,Phoenix,87369,Electronics,196.91,UPI,True
+27,Male,Chicago,126934,Clothing,587.37,PayPal,True
+33,Other,Los Angeles,79314,Sports,429.96,PayPal,False
+55,Female,Los Angeles,91721,Clothing,328.47,Debit Card,True
+57,Female,San Diego,126179,Clothing,1026.66,UPI,True
+38,Female,New York,121879,Home,284.21,PayPal,False
+50,Other,San Diego,34922,Electronics,125.93,UPI,True
+22,Female,Los Angeles,72307,Home,99.13,Debit Card,True
+48,Other,New York,65357,Home,293.09,PayPal,False
+36,Female,San Jose,102751,Electronics,592.13,UPI,False
+51,Other,San Jose,69054,Home,736.7,Debit Card,False
+22,Female,Dallas,64126,Home,45.13,Debit Card,True
+33,Male,Phoenix,45224,Sports,455.25,Credit Card,False
+51,Male,Houston,121034,Home,558.21,Debit Card,True
+32,Other,New York,41345,Sports,59.4,PayPal,True
+65,Female,Los Angeles,99384,Beauty,549.78,Debit Card,True
+65,Male,Houston,53195,Home,77.36,PayPal,True
+50,Female,Philadelphia,61069,Clothing,96.99,Debit Card,False
+57,Male,Dallas,100702,Home,876.14,PayPal,False
+47,Male,San Antonio,143462,Clothing,253.74,PayPal,False
+40,Other,San Antonio,120239,Clothing,83.23,Credit Card,True
+50,Male,San Diego,117471,Clothing,383.9,Credit Card,False
+42,Female,San Diego,97293,Beauty,856.21,Debit Card,True
+54,Female,San Antonio,122116,Sports,1154.72,UPI,False
+25,Other,San Diego,71571,Sports,342.21,UPI,True
+21,Other,Chicago,33457,Beauty,266.8,UPI,False
+44,Male,Phoenix,30011,Home,138.75,PayPal,True
+18,Male,San Jose,85519,Sports,746.55,Credit Card,True
+63,Male,Houston,122899,Sports,249.14,Debit Card,True
+23,Female,Los Angeles,55657,Home,663.13,Credit Card,False
+39,Other,San Jose,90270,Electronics,609.58,PayPal,True
+52,Male,Los Angeles,114296,Electronics,97.58,Debit Card,True
+35,Other,Los Angeles,31979,Electronics,59.6,Debit Card,True
+28,Other,San Antonio,54723,Home,287.66,Credit Card,True
+48,Other,Chicago,78457,Sports,565.53,Debit Card,False
+35,Male,Los Angeles,138765,Clothing,684.37,Credit Card,False
+48,Male,San Jose,145599,Sports,284.71,PayPal,True
+24,Other,Los Angeles,133755,Electronics,875.2,PayPal,False
+56,Female,Chicago,128128,Electronics,1013.66,Credit Card,False
+42,Other,Phoenix,84446,Sports,493.9,UPI,False
+37,Other,San Jose,73851,Electronics,702.09,Debit Card,False
+18,Male,Phoenix,47274,Clothing,285.98,PayPal,False
+65,Male,Dallas,42475,Sports,87.64,Credit Card,False
+25,Female,Houston,130061,Home,696.62,PayPal,False
+60,Male,Los Angeles,120059,Electronics,451.46,UPI,True
+42,Female,San Antonio,135767,Electronics,226.79,UPI,False
+33,Male,Phoenix,127299,Beauty,621.41,Credit Card,True
+41,Other,Chicago,39804,Clothing,257.31,PayPal,True
+22,Female,Phoenix,137752,Home,346.46,UPI,False
+42,Female,Philadelphia,119195,Beauty,777.19,PayPal,False
+24,Female,Phoenix,60742,Home,472.04,Credit Card,True
+39,Other,Chicago,144570,Beauty,307.37,UPI,False
+60,Other,New York,92421,Clothing,590.73,PayPal,False
+62,Female,San Antonio,89214,Electronics,978.06,PayPal,False
+47,Male,San Diego,88367,Beauty,321.99,PayPal,True
+54,Female,New York,72082,Beauty,34.83,PayPal,False
+46,Male,San Diego,118737,Sports,285.54,PayPal,True
+37,Male,San Jose,52928,Sports,107.14,Debit Card,True
+63,Female,Philadelphia,65962,Home,146.7,Debit Card,True
+41,Female,San Antonio,120484,Beauty,771.52,Credit Card,True
+64,Male,New York,113349,Home,159.95,PayPal,False
+18,Other,Philadelphia,109217,Electronics,500.54,UPI,True
+32,Male,Chicago,35695,Clothing,168.96,UPI,True
+40,Other,San Antonio,88376,Clothing,151.42,Credit Card,True
+19,Other,Chicago,130135,Electronics,1188.14,UPI,False
+55,Female,Houston,126548,Clothing,699.33,Debit Card,False
+43,Other,Chicago,62960,Sports,393.05,UPI,False
+26,Male,Dallas,134285,Home,746.02,Credit Card,True
+30,Other,San Jose,50279,Clothing,187.99,UPI,True
+39,Male,San Diego,37821,Clothing,10.72,PayPal,True
+39,Other,Houston,91993,Home,557.2,Debit Card,True
+65,Other,San Jose,51465,Sports,141.67,Credit Card,False
+50,Male,San Antonio,124761,Sports,873.39,Debit Card,False
+54,Male,San Diego,124974,Sports,827.24,Credit Card,True
+62,Other,San Jose,106579,Sports,515.75,Debit Card,True
+45,Female,San Diego,149177,Clothing,1419.68,Credit Card,False
+37,Other,New York,94096,Sports,459.48,Credit Card,False
+54,Female,New York,78540,Sports,198.47,PayPal,False
+47,Other,Dallas,97131,Clothing,609.5,Debit Card,True
+18,Other,Los Angeles,75421,Sports,413.74,Credit Card,True
+22,Other,San Antonio,68985,Clothing,438.29,PayPal,False
+28,Female,Philadelphia,136735,Electronics,457.4,Debit Card,False
+18,Other,Los Angeles,101105,Clothing,168.36,Credit Card,True
+30,Other,New York,37942,Sports,18.11,UPI,False
+45,Male,Los Angeles,56704,Beauty,269.23,Debit Card,True
+51,Male,Houston,96653,Sports,143.49,PayPal,True
+57,Female,Houston,109566,Beauty,314.25,UPI,True
+54,Other,Houston,40126,Electronics,171.47,PayPal,False
+43,Female,Philadelphia,120313,Clothing,536.99,Debit Card,True
+55,Female,Dallas,123999,Beauty,833.09,Debit Card,False
+31,Other,San Diego,88084,Clothing,163.1,UPI,True
+56,Female,San Diego,86746,Sports,918.5,UPI,True
+56,Male,Chicago,73063,Sports,470.93,UPI,True
+48,Female,San Diego,88011,Beauty,1010.14,PayPal,True
+41,Male,San Diego,65983,Home,178.04,Credit Card,True
+41,Male,Chicago,77552,Electronics,332.33,Credit Card,True
+43,Other,Los Angeles,79482,Home,314.93,PayPal,False
+35,Male,Chicago,104358,Beauty,670.77,Credit Card,False
+61,Male,Phoenix,118923,Home,225.36,UPI,True
+31,Other,Houston,136744,Beauty,405.63,Credit Card,False
+41,Male,San Jose,62036,Home,309.5,PayPal,False
+35,Other,Phoenix,64517,Electronics,790.94,PayPal,False
+18,Other,Philadelphia,38479,Electronics,119.07,Credit Card,False
+36,Female,San Antonio,53514,Clothing,640.36,PayPal,False
+61,Female,San Antonio,111577,Electronics,606.84,Debit Card,False
+49,Female,San Antonio,127843,Beauty,367.4,UPI,False
+34,Other,Houston,79644,Sports,88.28,UPI,False
+55,Female,San Diego,115929,Home,1327.39,PayPal,True
+65,Male,Dallas,138382,Clothing,528.46,UPI,False
+21,Female,Philadelphia,35926,Clothing,32.16,PayPal,False
+32,Female,Houston,43142,Beauty,150.42,Debit Card,True
+57,Other,San Diego,114611,Home,350.11,UPI,False
+52,Male,Phoenix,103096,Sports,688.05,PayPal,True
+40,Other,San Antonio,149822,Home,1418.28,Credit Card,True
+45,Female,New York,69254,Electronics,792.43,PayPal,False
+39,Male,Houston,96717,Clothing,1362.54,Debit Card,False
+53,Male,San Antonio,68535,Beauty,611.03,PayPal,True
+64,Male,San Diego,41648,Beauty,291.73,Credit Card,True
+55,Male,San Jose,90171,Clothing,212.44,Debit Card,False
+37,Male,Philadelphia,107366,Sports,861.46,PayPal,True
+41,Other,New York,78760,Sports,216.03,Debit Card,True
+50,Female,San Diego,32689,Sports,30.35,PayPal,False
+33,Female,Phoenix,90991,Home,503.78,PayPal,True
+30,Male,Los Angeles,53673,Electronics,156.56,Debit Card,True
+30,Female,San Diego,49161,Home,160.54,Debit Card,False
+47,Female,Phoenix,105266,Sports,595.37,PayPal,False
+42,Male,San Diego,137373,Sports,1187.88,UPI,True
+25,Male,Dallas,127187,Home,761.3,UPI,True
+60,Male,Houston,85257,Electronics,448.4,Debit Card,True
+24,Other,Phoenix,30011,Clothing,41.14,Credit Card,True
+33,Male,San Jose,70457,Clothing,386.42,Credit Card,False
+49,Male,San Jose,56442,Clothing,39.83,Credit Card,True
+43,Female,Phoenix,108026,Home,539.63,Debit Card,False
+45,Female,Los Angeles,92371,Clothing,176.36,Debit Card,True
+29,Other,Chicago,146338,Electronics,159.68,UPI,False
+42,Other,Chicago,45826,Clothing,189.97,Credit Card,True
+40,Other,San Diego,105296,Home,500.27,Debit Card,True
+35,Male,Chicago,100174,Electronics,597.37,Credit Card,False
+39,Other,Chicago,108619,Beauty,1139.55,Credit Card,True
+36,Female,Philadelphia,91990,Beauty,891.11,UPI,False
+53,Male,San Jose,122297,Electronics,712.07,Credit Card,False
+48,Other,San Diego,84634,Clothing,738.42,Credit Card,False
+45,Other,San Jose,69748,Clothing,529.52,UPI,True
+55,Male,San Jose,81720,Sports,434.2,Debit Card,True
+22,Other,San Diego,56608,Clothing,319.04,Debit Card,False
+64,Male,Philadelphia,53844,Beauty,112.48,UPI,True
+49,Male,New York,123665,Clothing,554.01,Credit Card,False
+22,Other,San Jose,111686,Clothing,650.67,UPI,True
+18,Female,San Jose,112282,Clothing,549.12,Debit Card,True
+39,Other,New York,100396,Beauty,579.73,Debit Card,False
+23,Other,Dallas,39047,Sports,71.36,Debit Card,True
+18,Other,New York,67543,Clothing,405.8,UPI,True
+47,Male,San Diego,118240,Beauty,479.97,Credit Card,True
+54,Other,Dallas,114174,Clothing,1212.76,Debit Card,True
+39,Female,San Diego,134627,Sports,1230.57,UPI,False
+38,Male,San Diego,110051,Beauty,594.2,Credit Card,True
+19,Other,San Antonio,114014,Clothing,730.15,UPI,False
+38,Female,Dallas,88799,Home,364.37,Debit Card,True
+40,Female,San Antonio,149822,Beauty,727.71,Debit Card,False
+36,Male,San Antonio,127810,Electronics,968.92,Credit Card,False
+49,Other,Dallas,66797,Clothing,256.31,UPI,False
+24,Female,Houston,132294,Home,376.93,Credit Card,False
+35,Male,New York,127459,Sports,82.96,Debit Card,False
+52,Male,San Jose,115671,Beauty,144.17,Credit Card,False
+46,Male,San Jose,119809,Beauty,64.94,Debit Card,False
+57,Other,Houston,97092,Sports,208.58,UPI,True
+49,Other,Dallas,51326,Sports,104.68,UPI,False
+43,Male,Houston,113632,Clothing,1366.29,Debit Card,True
+65,Male,Houston,86053,Home,151.25,PayPal,False
+35,Female,San Jose,88627,Clothing,699.47,Credit Card,True
+62,Male,Chicago,67235,Sports,163.12,UPI,True
+30,Female,San Jose,96775,Electronics,916.43,Debit Card,False
+42,Other,Los Angeles,84210,Home,560.21,PayPal,True
+44,Other,Los Angeles,77108,Home,427.21,Credit Card,True
+55,Other,San Antonio,47274,Clothing,24.43,Debit Card,False
+18,Female,San Diego,75274,Home,101.2,Debit Card,True
+56,Female,New York,99338,Sports,694.73,Credit Card,True
+38,Male,San Antonio,132536,Electronics,156.18,Credit Card,True
+43,Male,Chicago,104821,Beauty,514.03,UPI,False
+60,Female,Dallas,147600,Sports,677.15,UPI,False
+53,Male,San Antonio,78435,Clothing,126.14,UPI,True
+33,Male,Phoenix,119553,Beauty,443.29,PayPal,False
+30,Female,New York,34901,Electronics,384.96,Debit Card,False
+60,Female,San Antonio,133559,Electronics,1208.97,PayPal,True
+22,Other,San Jose,48997,Electronics,191.05,Debit Card,True
+46,Male,Phoenix,34807,Clothing,26.19,Credit Card,True
+22,Other,San Jose,60327,Electronics,685.95,UPI,False
+33,Female,Houston,105998,Beauty,296.58,UPI,True
+52,Female,San Jose,149822,Clothing,1292.79,Debit Card,False
+38,Female,Philadelphia,102846,Clothing,732.78,PayPal,False
+49,Male,Phoenix,103532,Sports,1096.3,PayPal,True
+36,Male,San Diego,138056,Home,777.9,Debit Card,False
+56,Female,Dallas,90840,Beauty,37.34,PayPal,True
+37,Female,San Diego,105768,Beauty,804.07,PayPal,True
+31,Female,Philadelphia,106808,Beauty,230.58,PayPal,False
+36,Male,San Antonio,94091,Electronics,78.32,Debit Card,True
+39,Other,San Antonio,61148,Beauty,171.0,Credit Card,True
+36,Female,Houston,75583,Sports,377.37,UPI,False
+49,Other,San Antonio,50670,Sports,244.08,PayPal,False
+34,Female,San Antonio,61193,Home,608.04,Debit Card,True
+53,Male,Houston,73573,Sports,384.66,PayPal,True
+36,Other,Houston,63362,Beauty,41.09,PayPal,True
+53,Other,Philadelphia,135287,Beauty,620.98,UPI,True
+26,Male,Houston,59021,Sports,118.93,UPI,False
+22,Male,Phoenix,82917,Beauty,708.61,Credit Card,False
+42,Male,Chicago,111850,Electronics,1050.42,Credit Card,False
+39,Other,Phoenix,30403,Electronics,286.05,Credit Card,True
+45,Other,San Diego,97536,Sports,489.4,Debit Card,True
+31,Other,San Jose,75157,Clothing,599.03,UPI,False
+23,Male,Chicago,35919,Electronics,115.37,UPI,False
+65,Male,Philadelphia,53325,Clothing,162.48,Debit Card,False
+65,Male,Dallas,93493,Sports,218.66,Debit Card,False
+25,Female,Dallas,111813,Beauty,214.41,UPI,False
+47,Male,Phoenix,56878,Electronics,272.07,UPI,False
+19,Other,San Jose,88601,Electronics,948.82,PayPal,True
+27,Female,Chicago,50095,Clothing,341.65,PayPal,False
+24,Female,San Diego,51440,Clothing,32.12,PayPal,True
+40,Male,Los Angeles,126340,Home,956.08,PayPal,True
+57,Other,New York,148336,Clothing,673.62,UPI,False
+63,Male,Philadelphia,67755,Clothing,556.59,Credit Card,False
+30,Female,Dallas,78560,Home,547.52,Debit Card,False
+34,Male,Los Angeles,49382,Home,349.29,UPI,False
+47,Female,Philadelphia,128894,Electronics,572.69,Credit Card,False
+55,Female,San Jose,126311,Electronics,447.91,UPI,False
+49,Other,San Antonio,107714,Sports,811.71,UPI,True
+33,Male,Dallas,110087,Electronics,779.65,UPI,False
+52,Male,Phoenix,141474,Home,682.1,UPI,True
+26,Other,Los Angeles,87097,Electronics,170.89,Debit Card,True
+40,Other,Chicago,111011,Sports,791.74,UPI,True
+55,Female,Dallas,140569,Sports,1037.6,Debit Card,False
+54,Female,Dallas,145501,Electronics,251.93,UPI,False
+43,Male,Houston,141592,Home,870.73,UPI,True
+24,Female,Phoenix,112707,Electronics,716.71,PayPal,False
+46,Female,Houston,44231,Clothing,31.08,Credit Card,True
+35,Other,New York,101354,Electronics,927.05,Credit Card,False
+41,Female,Phoenix,135079,Sports,1180.86,PayPal,False
+65,Female,New York,58093,Clothing,296.54,UPI,True
+50,Male,San Diego,103431,Beauty,1018.62,UPI,True
+43,Other,San Antonio,121363,Home,1350.23,Debit Card,True
+55,Other,New York,149822,Home,235.99,UPI,True
+41,Female,San Diego,40782,Home,37.88,Credit Card,True
+43,Male,New York,78579,Home,117.36,Credit Card,False
+18,Female,Houston,46849,Electronics,277.16,UPI,False
+43,Female,Philadelphia,62305,Beauty,39.32,Credit Card,True
+55,Other,Philadelphia,115452,Clothing,119.04,UPI,True
+21,Male,San Jose,80236,Sports,158.01,Credit Card,False
+63,Female,Chicago,77967,Clothing,139.7,Debit Card,True
+41,Female,Dallas,107930,Sports,52.7,Debit Card,True
+32,Male,Chicago,129110,Beauty,528.95,UPI,False
+51,Other,Houston,104914,Clothing,1190.03,Credit Card,True
+53,Other,Chicago,82109,Home,656.23,UPI,True
+60,Female,New York,47164,Clothing,52.54,UPI,False
+38,Male,Philadelphia,44827,Sports,240.38,UPI,True
+39,Male,Dallas,77122,Home,330.28,PayPal,False
+36,Female,New York,40373,Home,55.61,Debit Card,False
+18,Female,Los Angeles,75879,Home,105.53,PayPal,False
+36,Male,Los Angeles,141399,Home,414.96,Credit Card,True
+41,Other,San Antonio,30011,Home,74.56,UPI,False
+59,Male,Philadelphia,65637,Electronics,422.7,Debit Card,False
+48,Female,Philadelphia,142227,Home,1060.98,Credit Card,True
+60,Male,San Jose,104242,Beauty,73.07,PayPal,False
+37,Other,Houston,135599,Electronics,991.9,Debit Card,False
+48,Other,Philadelphia,87342,Clothing,84.08,UPI,False
+52,Other,San Diego,78888,Beauty,754.76,Credit Card,True
+51,Female,Dallas,112744,Beauty,396.64,UPI,True
+50,Female,San Diego,37636,Home,45.62,UPI,False
+39,Female,Houston,67342,Sports,34.85,Debit Card,True
+33,Female,Dallas,88361,Beauty,41.65,UPI,True
+56,Female,Philadelphia,140672,Home,478.44,UPI,False
+53,Female,New York,83188,Clothing,61.74,UPI,False
+31,Female,San Diego,56467,Electronics,215.11,Credit Card,False
+61,Female,New York,147598,Electronics,867.48,Credit Card,False
+19,Male,New York,63007,Clothing,341.83,Debit Card,False
+62,Female,San Antonio,139368,Electronics,1175.04,UPI,True
+65,Female,Los Angeles,83614,Beauty,117.56,PayPal,False
+59,Female,San Jose,68197,Home,730.95,PayPal,False
+41,Female,Philadelphia,62048,Beauty,347.24,UPI,False
+65,Male,Dallas,113886,Sports,549.34,Credit Card,False
+22,Female,San Jose,130651,Electronics,700.71,Credit Card,False
+30,Female,San Diego,75735,Clothing,37.03,UPI,True
+25,Other,San Jose,118359,Electronics,552.85,Credit Card,True
+44,Female,San Antonio,61849,Home,297.25,Debit Card,True
+36,Female,Los Angeles,88401,Clothing,48.41,PayPal,True
+38,Female,Los Angeles,105790,Home,916.33,PayPal,True
+22,Other,Chicago,81946,Beauty,630.92,UPI,False
+30,Male,San Antonio,106251,Clothing,785.85,Credit Card,False
+60,Male,San Diego,75953,Home,68.56,PayPal,False
+65,Female,Philadelphia,130265,Electronics,519.77,Credit Card,False
+22,Male,San Diego,137948,Electronics,994.12,Credit Card,True
+56,Other,San Antonio,95523,Home,462.45,Credit Card,True
+34,Male,Los Angeles,86263,Home,477.9,PayPal,False
+47,Female,Dallas,68186,Electronics,105.01,Credit Card,False
+43,Male,Los Angeles,126425,Clothing,1250.04,Debit Card,False
+26,Other,San Diego,104483,Electronics,134.17,PayPal,True
+48,Female,Houston,83555,Home,32.66,PayPal,False
+36,Male,New York,63413,Clothing,524.42,UPI,False
+47,Female,Houston,134341,Sports,1285.09,Debit Card,False
+28,Other,San Diego,57908,Electronics,126.28,Debit Card,True
+32,Other,Houston,105107,Beauty,297.13,Credit Card,True
+52,Other,Chicago,88394,Beauty,952.6,Debit Card,False
+40,Other,Houston,30011,Electronics,27.05,Credit Card,True
+65,Other,San Antonio,83113,Home,877.57,Debit Card,True
+38,Female,Dallas,109271,Sports,559.83,Debit Card,True
+18,Male,Philadelphia,108618,Sports,652.59,UPI,True
+34,Other,New York,143841,Electronics,737.31,UPI,False
+31,Female,Chicago,36862,Home,180.52,PayPal,True
+56,Female,San Diego,97912,Clothing,81.1,UPI,False
+39,Male,San Antonio,106669,Electronics,755.99,PayPal,False
+49,Other,Los Angeles,93641,Beauty,268.99,Debit Card,False
+35,Female,San Jose,141860,Electronics,687.37,Credit Card,False
+63,Other,Houston,79648,Sports,391.64,PayPal,True
+55,Female,New York,149822,Clothing,509.32,UPI,False
+28,Female,San Jose,104086,Sports,251.43,UPI,False
+43,Male,San Jose,101080,Home,137.77,Debit Card,True
+35,Female,San Diego,128292,Clothing,537.43,Credit Card,False
+46,Female,Phoenix,100236,Sports,1183.93,PayPal,False
+51,Male,Dallas,94505,Sports,98.33,Debit Card,True
+53,Other,Los Angeles,47395,Clothing,261.31,UPI,True
+30,Female,Philadelphia,102045,Clothing,408.78,Credit Card,False
+18,Other,Houston,104331,Electronics,552.41,UPI,True
+53,Other,Los Angeles,80669,Sports,715.86,PayPal,True
+43,Female,Philadelphia,89874,Beauty,695.37,Credit Card,True
+39,Female,San Diego,85420,Beauty,171.12,PayPal,False
+40,Male,Chicago,101101,Sports,824.16,Debit Card,True
+51,Male,Los Angeles,83713,Beauty,423.52,Debit Card,False
+45,Other,San Diego,115377,Beauty,872.09,Credit Card,False
+45,Other,San Jose,126106,Clothing,339.87,Debit Card,True
+23,Male,Los Angeles,64865,Clothing,531.7,Credit Card,True
+39,Other,San Jose,76441,Electronics,234.08,Credit Card,True
+29,Female,Chicago,88177,Sports,521.83,PayPal,False
+46,Female,Los Angeles,114209,Clothing,396.56,Debit Card,True
+38,Other,Houston,102200,Clothing,355.0,Debit Card,True
+19,Other,San Diego,120514,Electronics,239.86,UPI,False
+42,Female,San Antonio,115059,Clothing,848.19,Debit Card,False
+23,Other,San Diego,136067,Home,170.42,Credit Card,False
+44,Other,San Diego,102181,Sports,397.41,UPI,False
+47,Male,San Antonio,149822,Clothing,775.61,PayPal,True
+60,Other,San Antonio,123594,Sports,470.46,PayPal,True
+65,Female,Dallas,106635,Sports,684.03,Debit Card,True
+35,Other,New York,38467,Sports,326.3,Debit Card,False
+32,Other,Houston,49614,Home,212.41,Debit Card,True
+53,Male,Los Angeles,95805,Clothing,68.31,Credit Card,True
+41,Female,San Diego,72525,Sports,602.99,Credit Card,True
+34,Female,Houston,65607,Electronics,68.89,Debit Card,False
+52,Female,Dallas,112547,Beauty,746.7,PayPal,True
+30,Other,San Diego,30011,Electronics,101.67,Credit Card,True
+62,Other,New York,62986,Clothing,100.13,Credit Card,True
+26,Female,San Diego,81408,Electronics,673.59,Debit Card,False
+29,Male,Los Angeles,60034,Sports,44.38,PayPal,True
+37,Other,Los Angeles,60217,Beauty,247.24,UPI,True
+54,Female,San Diego,112189,Clothing,1180.55,PayPal,False
+19,Male,Phoenix,38887,Electronics,296.22,UPI,False
+58,Male,San Diego,138003,Sports,1090.26,UPI,True
+37,Male,San Jose,127118,Home,1209.07,Credit Card,False
+55,Female,San Diego,85444,Beauty,459.69,Credit Card,True
+30,Other,New York,137485,Home,741.49,Credit Card,True
+43,Other,Los Angeles,126563,Home,639.59,PayPal,False
+25,Other,Chicago,45643,Electronics,84.98,UPI,False
+49,Other,San Diego,65553,Home,391.61,Credit Card,True
+54,Other,New York,30727,Electronics,143.05,Debit Card,False
+30,Male,Dallas,39619,Home,47.95,Credit Card,True
+44,Male,San Jose,148597,Sports,670.83,UPI,True
+45,Male,New York,91201,Sports,188.42,Credit Card,True
+22,Male,Houston,48405,Clothing,495.91,Credit Card,True
+46,Male,Houston,31551,Sports,166.79,UPI,False
+27,Female,Dallas,57100,Beauty,297.88,Debit Card,False
+65,Male,San Diego,70650,Home,287.48,PayPal,True
+56,Male,San Diego,98849,Sports,161.77,PayPal,True
+28,Female,New York,30011,Beauty,109.09,Debit Card,True
+51,Male,Chicago,89911,Electronics,817.01,Credit Card,False
+30,Other,Houston,116075,Sports,590.5,Debit Card,True
+44,Male,San Jose,149822,Electronics,694.41,UPI,False
+23,Female,Chicago,124389,Sports,688.51,PayPal,True
+26,Male,Chicago,86310,Clothing,678.99,UPI,True
+43,Other,Los Angeles,53097,Clothing,155.58,PayPal,False
+29,Other,Chicago,42853,Beauty,349.89,UPI,True
+54,Male,Chicago,129118,Beauty,660.49,UPI,False
+30,Male,Chicago,81643,Sports,102.03,Debit Card,False
+62,Other,San Antonio,102671,Electronics,501.54,Debit Card,False
+39,Male,Phoenix,30011,Clothing,148.91,UPI,False
+38,Female,Houston,53141,Home,240.48,Debit Card,False
+56,Female,Houston,110110,Sports,834.1,UPI,True
+60,Female,Dallas,141459,Clothing,1262.05,Credit Card,True
+56,Other,Chicago,34353,Electronics,292.74,Credit Card,True
+65,Male,New York,57882,Electronics,64.41,Debit Card,False
+65,Male,Dallas,129536,Beauty,150.6,PayPal,False
+28,Female,San Diego,103081,Beauty,352.45,UPI,True
+51,Male,San Antonio,104116,Clothing,1048.96,UPI,True
+43,Male,Chicago,123450,Home,1261.52,UPI,True
+54,Female,New York,30011,Clothing,87.48,UPI,False
+53,Male,Phoenix,70865,Beauty,343.18,PayPal,False
+39,Female,Dallas,104933,Sports,734.17,Credit Card,False
+61,Female,New York,73967,Home,576.02,PayPal,False
+52,Female,Los Angeles,93303,Beauty,228.16,Credit Card,True
+24,Female,Los Angeles,108714,Clothing,113.25,PayPal,True
+63,Other,Dallas,79536,Home,147.34,UPI,False
+43,Other,Philadelphia,58310,Home,166.19,Debit Card,False
+30,Other,Chicago,72613,Electronics,745.68,Debit Card,True
+44,Other,Houston,113566,Home,663.75,Debit Card,False
+51,Male,New York,113750,Sports,43.07,Debit Card,False
+58,Other,Houston,96000,Home,360.55,Debit Card,True
+26,Female,Dallas,43664,Clothing,310.47,UPI,True
+18,Male,New York,104525,Home,832.9,Debit Card,False
+38,Other,Phoenix,30011,Electronics,193.24,Credit Card,False
+20,Male,Los Angeles,145875,Electronics,481.77,Credit Card,False
+18,Other,San Diego,61184,Electronics,307.94,Credit Card,False
+52,Female,New York,79999,Home,197.53,PayPal,False
+65,Female,San Diego,117445,Electronics,830.52,UPI,True
+27,Male,San Jose,78658,Sports,326.34,Debit Card,True
+52,Other,San Diego,95275,Clothing,91.07,PayPal,False
+57,Male,San Diego,86179,Home,384.49,Debit Card,False
+26,Other,San Antonio,47682,Clothing,260.5,PayPal,True
+53,Female,New York,53473,Electronics,339.68,Debit Card,True
+62,Other,San Diego,115804,Electronics,1000.35,Credit Card,True
+54,Male,New York,67571,Clothing,244.88,PayPal,True
+22,Female,San Jose,91959,Electronics,682.66,Debit Card,True
+56,Other,Los Angeles,61656,Electronics,259.78,Credit Card,True
+43,Male,Dallas,131632,Home,799.89,Credit Card,True
+45,Male,Chicago,53474,Beauty,529.75,Credit Card,True
+46,Other,Los Angeles,70255,Electronics,297.68,Credit Card,True
+35,Other,Chicago,143722,Electronics,737.06,UPI,False
+48,Other,Los Angeles,145502,Sports,702.59,UPI,True
+36,Male,Phoenix,30011,Beauty,64.88,UPI,True
+42,Other,Phoenix,82376,Beauty,62.64,Debit Card,True
+65,Other,San Antonio,100380,Clothing,322.76,Credit Card,True
+34,Female,Chicago,89979,Sports,491.24,UPI,True
+19,Female,Dallas,120737,Home,668.02,UPI,True
+56,Female,Philadelphia,72331,Beauty,95.74,Credit Card,True
+23,Other,Phoenix,123338,Beauty,489.54,UPI,True
+19,Other,Houston,77987,Electronics,476.0,Credit Card,True
+40,Male,Los Angeles,54364,Sports,230.27,Debit Card,True
+36,Male,Dallas,35470,Sports,225.17,Credit Card,False
+53,Other,San Diego,43976,Clothing,25.9,UPI,False
+36,Female,Chicago,149822,Beauty,1456.04,UPI,True
+21,Male,Phoenix,73357,Home,591.33,Debit Card,False
+20,Female,Phoenix,66823,Home,683.86,Debit Card,False
+19,Other,San Jose,84473,Home,385.49,UPI,False
+24,Other,Chicago,59035,Sports,516.85,Credit Card,False
+32,Other,San Antonio,102828,Beauty,213.56,PayPal,False
+45,Other,Philadelphia,130778,Clothing,760.5,Credit Card,True
+56,Other,Los Angeles,135948,Electronics,189.71,Debit Card,False
+42,Male,San Diego,149822,Home,1456.04,Credit Card,True
+41,Male,Phoenix,116925,Sports,1346.94,Credit Card,False
+27,Other,Houston,140108,Home,200.46,Credit Card,True
+21,Other,Dallas,49852,Beauty,129.96,Debit Card,False
+54,Other,Los Angeles,133249,Home,189.17,PayPal,False
+28,Other,New York,30011,Home,33.36,Debit Card,True
+58,Male,San Diego,89034,Beauty,191.43,UPI,True
+22,Female,San Diego,59522,Home,453.4,Credit Card,True
+31,Female,Los Angeles,79695,Electronics,195.14,Debit Card,False
+46,Other,Dallas,149822,Electronics,539.08,PayPal,False
+64,Male,Los Angeles,135556,Home,1235.69,Credit Card,True
+18,Female,Philadelphia,40537,Electronics,96.48,UPI,True
+63,Male,Los Angeles,64663,Electronics,552.52,Credit Card,True
+48,Female,San Antonio,49860,Clothing,496.12,PayPal,True
+60,Other,San Diego,57923,Home,711.23,PayPal,False
+63,Other,San Jose,39340,Electronics,216.57,PayPal,True
+36,Male,Phoenix,97673,Sports,431.63,UPI,True
+28,Male,Phoenix,101784,Home,499.74,Credit Card,True
+23,Other,Phoenix,79733,Home,615.04,Credit Card,True
+36,Female,San Diego,57862,Clothing,237.97,UPI,False
+51,Other,New York,35659,Electronics,318.29,Credit Card,False
+27,Other,New York,113017,Sports,852.77,PayPal,True
+35,Female,Houston,55007,Home,64.28,Debit Card,False
+32,Male,San Diego,117150,Sports,194.43,UPI,False
+32,Other,San Antonio,101381,Beauty,862.97,Debit Card,True
+25,Male,Houston,30011,Sports,132.34,Credit Card,True
+28,Male,Los Angeles,141527,Sports,1195.04,PayPal,False
+48,Male,New York,71352,Sports,256.99,UPI,True
+18,Other,San Jose,110860,Beauty,435.01,PayPal,False
+18,Female,Los Angeles,81554,Clothing,112.48,Debit Card,True
+65,Other,Philadelphia,133143,Home,927.09,Debit Card,True
+62,Other,San Diego,105849,Beauty,336.56,Credit Card,True
+53,Male,Philadelphia,41655,Beauty,25.53,Debit Card,True
+61,Male,Houston,65914,Electronics,390.75,Credit Card,True
+47,Female,Dallas,143334,Clothing,274.23,Credit Card,True
+35,Male,Chicago,50742,Home,121.64,PayPal,True
+50,Female,San Antonio,84622,Beauty,217.3,Credit Card,True
+52,Female,Houston,37046,Clothing,233.22,UPI,True
+41,Other,Phoenix,148002,Beauty,509.45,Credit Card,True
+48,Male,San Jose,107281,Sports,1091.5,UPI,True
+65,Other,San Diego,124030,Sports,282.32,UPI,True
+41,Male,San Diego,95193,Electronics,189.54,Credit Card,False
+32,Male,San Diego,112101,Sports,58.62,PayPal,True
+56,Other,Houston,117062,Beauty,360.18,Debit Card,True
+37,Male,Houston,147829,Clothing,200.32,UPI,False
+35,Other,Chicago,139949,Beauty,774.5,Credit Card,True
+30,Female,Houston,34920,Beauty,22.58,Debit Card,True
+59,Female,San Jose,88833,Sports,623.78,Debit Card,False
+29,Male,San Diego,65320,Clothing,139.24,Debit Card,False
+40,Male,Chicago,30011,Sports,117.66,UPI,True
+19,Female,Dallas,85131,Home,140.81,PayPal,False
+65,Male,Houston,87533,Clothing,79.96,PayPal,False
+57,Other,San Jose,91041,Sports,299.73,Credit Card,False
+41,Female,Philadelphia,110580,Clothing,1038.42,Debit Card,True
+61,Female,Los Angeles,124358,Electronics,217.21,Debit Card,False
+53,Female,Dallas,79208,Home,420.58,UPI,False
+38,Female,San Jose,38311,Clothing,232.62,PayPal,True
+34,Male,San Jose,149822,Sports,1081.97,Credit Card,True
+52,Male,Los Angeles,114811,Electronics,56.95,PayPal,False
+24,Other,San Diego,84542,Home,352.65,Debit Card,False
+60,Other,San Jose,102963,Electronics,133.96,Debit Card,False
+53,Male,San Jose,58770,Home,501.87,Debit Card,False
+45,Female,New York,30011,Sports,115.09,Debit Card,True
+51,Female,San Jose,75167,Electronics,615.76,Debit Card,False
+38,Male,San Diego,75329,Beauty,900.25,UPI,True
+31,Other,San Antonio,127686,Sports,686.57,UPI,False
+45,Female,New York,73996,Electronics,111.61,Debit Card,True
+29,Other,Houston,33582,Beauty,293.48,Credit Card,True
+27,Male,New York,75854,Beauty,341.49,PayPal,True
+64,Male,San Antonio,105949,Home,215.67,Debit Card,True
+60,Other,Dallas,35653,Sports,163.56,Credit Card,True
+60,Male,San Diego,71400,Sports,460.91,PayPal,True
+44,Male,Phoenix,149822,Sports,1338.84,Debit Card,True
+30,Female,San Diego,69539,Clothing,498.69,PayPal,True
+41,Other,Phoenix,74918,Beauty,509.27,UPI,False
+59,Female,San Antonio,149451,Electronics,533.59,Credit Card,True
+42,Female,Los Angeles,104756,Electronics,1157.45,Debit Card,False
+39,Female,Houston,116299,Sports,570.11,PayPal,True
+46,Female,Los Angeles,63473,Electronics,87.02,UPI,True
+57,Other,San Jose,133355,Electronics,923.62,UPI,True
+24,Other,New York,61345,Clothing,387.38,PayPal,True
+48,Female,Dallas,30011,Clothing,82.77,Credit Card,False
+65,Other,Dallas,125773,Sports,653.98,Credit Card,False
+21,Other,San Antonio,118280,Home,588.92,Debit Card,False
+45,Other,San Jose,60681,Clothing,366.62,UPI,False
+24,Other,Chicago,120361,Beauty,587.88,Credit Card,False
+42,Female,Los Angeles,55832,Electronics,303.71,UPI,True
+35,Male,Phoenix,65940,Sports,319.99,UPI,False
+18,Female,San Diego,72801,Clothing,145.49,UPI,True
+38,Female,Philadelphia,66500,Beauty,396.46,PayPal,True
+24,Female,San Jose,135408,Clothing,382.58,Credit Card,False
+32,Male,New York,149822,Sports,251.13,PayPal,False
+30,Female,Dallas,88010,Sports,272.3,Debit Card,True
+54,Female,San Diego,63867,Beauty,78.96,Credit Card,False
+62,Male,Los Angeles,97367,Clothing,248.82,Debit Card,False
+41,Other,Chicago,99716,Electronics,147.2,PayPal,False
+18,Other,Phoenix,97554,Clothing,404.93,UPI,False
+39,Other,Los Angeles,95538,Electronics,758.41,Credit Card,True
+23,Other,New York,59569,Beauty,337.12,Credit Card,True
+35,Other,Philadelphia,70360,Sports,693.07,UPI,True
+45,Female,San Diego,130944,Electronics,551.78,PayPal,True
+57,Other,Chicago,81396,Home,858.11,PayPal,True
+40,Other,New York,34855,Beauty,85.62,PayPal,False
+30,Other,Chicago,66032,Electronics,457.97,UPI,True
+32,Male,New York,30011,Home,72.48,Debit Card,False
+56,Other,San Jose,96839,Sports,552.11,UPI,False
+58,Female,Houston,114155,Clothing,43.91,UPI,False
+40,Other,New York,75155,Sports,899.29,Credit Card,True
+57,Male,San Antonio,69225,Sports,141.96,UPI,False
+52,Female,Los Angeles,69942,Electronics,74.49,Credit Card,False
+33,Other,New York,85720,Sports,623.29,UPI,True
+65,Male,San Diego,106516,Sports,79.63,Debit Card,False
+65,Male,Houston,122658,Electronics,574.7,UPI,True
+41,Other,San Jose,119309,Sports,124.32,Debit Card,False
+55,Female,Los Angeles,77869,Electronics,21.58,PayPal,True
+43,Other,Los Angeles,64385,Clothing,357.89,Debit Card,True
+25,Female,Phoenix,106167,Home,791.95,PayPal,False
+61,Other,Chicago,137860,Electronics,657.75,UPI,False
+44,Other,San Antonio,53603,Home,485.12,Debit Card,True
+61,Male,Chicago,58258,Sports,56.32,Debit Card,True
+45,Male,Dallas,46695,Home,571.93,UPI,True
+65,Male,San Diego,69912,Beauty,256.25,UPI,True
+63,Female,San Jose,39428,Clothing,176.72,UPI,True
+20,Female,Phoenix,70428,Beauty,222.66,UPI,True
+41,Female,Dallas,130965,Sports,771.63,Debit Card,True
+50,Male,Los Angeles,34897,Home,101.96,Debit Card,True
+28,Male,Philadelphia,138761,Clothing,1071.72,Debit Card,False
+28,Female,Houston,104390,Electronics,286.05,UPI,False
+59,Male,Phoenix,98863,Beauty,358.93,Credit Card,True
+49,Other,San Jose,68739,Beauty,586.51,PayPal,True
+31,Male,Philadelphia,45694,Electronics,14.6,UPI,True
+33,Female,Philadelphia,30011,Sports,267.82,UPI,True
+38,Female,Phoenix,69255,Beauty,475.21,UPI,False
+39,Other,New York,149822,Electronics,155.04,Credit Card,True
+28,Male,Houston,99964,Sports,578.27,Credit Card,True
+44,Male,San Antonio,101835,Home,768.01,Debit Card,True
+29,Male,Houston,58215,Sports,26.7,PayPal,True
+61,Male,Los Angeles,59059,Sports,261.79,UPI,True
+46,Male,Philadelphia,39056,Beauty,52.01,PayPal,False
+59,Female,San Diego,100317,Sports,1030.91,PayPal,False
+18,Female,New York,113583,Electronics,405.2,Debit Card,False
+45,Male,Chicago,101304,Electronics,1117.41,PayPal,True
+48,Male,San Diego,127704,Electronics,825.82,Credit Card,False
+23,Male,San Diego,149822,Electronics,713.44,UPI,False
+18,Male,San Jose,91755,Home,331.89,PayPal,False
+34,Female,Los Angeles,114889,Clothing,54.56,Debit Card,True
+51,Male,Los Angeles,147783,Beauty,507.96,Debit Card,False
+19,Other,San Jose,62221,Clothing,439.96,UPI,True
+59,Other,Philadelphia,132362,Electronics,163.85,PayPal,False
+21,Male,Philadelphia,85561,Beauty,484.33,PayPal,True
+45,Other,San Diego,108523,Beauty,325.54,PayPal,False
+29,Other,San Antonio,105694,Electronics,812.91,Credit Card,False
+51,Other,San Jose,105973,Clothing,928.75,PayPal,True
+65,Other,Dallas,48261,Clothing,321.63,Debit Card,True
+37,Female,Dallas,106102,Electronics,685.58,Credit Card,False
+55,Female,Los Angeles,111388,Electronics,187.15,UPI,False
+35,Male,Philadelphia,85170,Home,714.87,PayPal,True
+48,Other,San Diego,88228,Clothing,37.49,Debit Card,False
+61,Male,Houston,110045,Home,257.53,PayPal,True
+50,Male,Philadelphia,102217,Electronics,254.99,PayPal,True
+44,Other,Houston,115758,Home,775.61,Credit Card,True
+18,Female,New York,117905,Sports,842.77,Debit Card,False
+52,Other,Dallas,123177,Clothing,1365.52,Credit Card,True
+63,Other,Chicago,47934,Home,262.7,PayPal,True
+43,Female,Philadelphia,64495,Beauty,131.78,Credit Card,False
+18,Female,Los Angeles,55148,Beauty,410.02,UPI,True
+21,Female,Houston,90827,Home,112.3,Debit Card,True
+39,Male,Houston,98695,Clothing,439.68,PayPal,True
+54,Other,San Jose,66241,Home,439.02,PayPal,False
+57,Other,Houston,120460,Home,573.42,Debit Card,False
+57,Other,Philadelphia,120806,Sports,1078.19,Debit Card,False
+58,Other,Houston,122399,Electronics,964.0,Credit Card,False
+32,Other,Phoenix,130183,Electronics,1230.96,Credit Card,True
+47,Female,Houston,106899,Sports,463.05,PayPal,False
+47,Other,San Antonio,73719,Home,698.58,PayPal,True
+44,Other,Dallas,65698,Home,437.28,Debit Card,True
+37,Other,Dallas,60511,Home,496.07,PayPal,True
+47,Other,San Jose,131927,Electronics,1320.28,Debit Card,False
+60,Other,Houston,52067,Clothing,333.49,PayPal,False
+49,Male,Los Angeles,88645,Electronics,144.24,PayPal,False
+51,Male,Houston,148192,Clothing,425.0,PayPal,True
+28,Other,San Diego,77680,Sports,220.05,UPI,True
+61,Other,Los Angeles,65897,Home,247.3,PayPal,True
+31,Female,Dallas,41802,Clothing,360.21,Debit Card,False
+37,Other,San Diego,69041,Electronics,98.86,Credit Card,False
+53,Other,Los Angeles,136646,Sports,318.77,Debit Card,True
+40,Male,San Diego,111391,Electronics,120.44,Debit Card,False
+24,Male,Phoenix,59744,Electronics,555.57,Credit Card,True
+31,Female,San Antonio,74725,Clothing,121.53,UPI,False
+46,Female,Houston,73205,Home,154.99,PayPal,False
+25,Female,Philadelphia,133964,Electronics,1041.08,UPI,False
+28,Female,San Diego,90864,Sports,344.03,UPI,True
+44,Female,Houston,132087,Electronics,737.6,Credit Card,False
+58,Male,San Diego,105305,Sports,1003.7,UPI,False
+38,Male,New York,118368,Clothing,698.36,UPI,True
+56,Male,Philadelphia,86666,Sports,142.43,UPI,False
+52,Female,Houston,149822,Beauty,692.05,Debit Card,True
+33,Female,San Diego,31998,Clothing,20.42,Debit Card,True
+62,Male,Philadelphia,101009,Clothing,282.66,Debit Card,True
+49,Female,Los Angeles,82954,Electronics,200.34,Credit Card,False
+18,Female,San Diego,48546,Sports,164.28,UPI,False
+57,Other,Phoenix,114989,Electronics,796.01,Credit Card,True
+59,Female,San Antonio,68085,Clothing,439.2,Credit Card,True
+62,Other,San Diego,68355,Electronics,182.22,PayPal,True
+49,Male,San Diego,78590,Home,315.89,Debit Card,False
+52,Male,Philadelphia,102583,Electronics,103.71,UPI,False
+55,Other,Philadelphia,123370,Electronics,451.83,Credit Card,True
+42,Other,Chicago,144746,Home,806.45,PayPal,False
+47,Other,San Diego,118767,Sports,1195.78,Debit Card,True
+39,Male,San Jose,149822,Beauty,905.86,Debit Card,True
+65,Male,Phoenix,70671,Home,522.21,PayPal,True
+59,Female,New York,107008,Home,184.31,UPI,True
+37,Male,Houston,147850,Beauty,128.32,Debit Card,True
+34,Female,Philadelphia,70092,Sports,264.7,PayPal,True
+40,Other,San Diego,53963,Clothing,309.12,Debit Card,True
+47,Male,Dallas,143473,Sports,343.94,UPI,True
+56,Other,San Diego,118701,Clothing,973.01,UPI,False
+48,Other,San Jose,96746,Electronics,93.79,UPI,False
+34,Other,Phoenix,100295,Home,702.26,UPI,False
+31,Other,Houston,80753,Clothing,167.84,UPI,True
+18,Female,Houston,67398,Beauty,57.76,Credit Card,True
+54,Other,San Jose,55092,Sports,644.84,UPI,True
+45,Male,San Antonio,126336,Sports,1022.57,UPI,False
+34,Other,Dallas,61412,Home,96.49,Debit Card,True
+48,Female,Dallas,40782,Beauty,267.2,Credit Card,True
+48,Male,San Diego,70355,Electronics,343.82,UPI,True
+24,Other,San Antonio,83676,Clothing,328.17,Debit Card,False
+52,Male,Philadelphia,53548,Clothing,233.81,Credit Card,True
+39,Other,San Jose,90499,Sports,274.18,PayPal,False
+63,Male,Dallas,95979,Clothing,325.01,Debit Card,False
+32,Male,San Diego,81294,Sports,563.13,Debit Card,True
+46,Female,Phoenix,55711,Clothing,92.18,Debit Card,False
+31,Other,San Antonio,34659,Beauty,422.12,Debit Card,False
+30,Other,San Jose,57239,Home,338.2,PayPal,False
+52,Other,San Antonio,75239,Sports,521.79,Debit Card,True
+59,Female,Houston,88640,Beauty,226.52,Debit Card,True
+65,Female,Philadelphia,105909,Clothing,140.41,Credit Card,False
+43,Other,Los Angeles,46716,Beauty,152.07,UPI,False
+36,Male,San Diego,87294,Beauty,381.36,Credit Card,False
+43,Female,Chicago,30011,Home,164.92,Credit Card,False
+32,Other,Phoenix,139475,Beauty,598.13,UPI,False
+52,Male,Los Angeles,121592,Sports,785.14,Debit Card,False
+55,Other,San Diego,134346,Home,336.76,PayPal,False
+37,Male,Philadelphia,115203,Beauty,452.15,UPI,False
+52,Other,San Diego,92295,Clothing,515.99,Debit Card,False
+31,Female,San Diego,128624,Home,367.29,PayPal,False
+25,Other,Los Angeles,93249,Electronics,387.43,Debit Card,True
+36,Other,San Jose,32093,Home,137.67,Debit Card,True
+64,Female,Chicago,83932,Electronics,604.25,Credit Card,True
+36,Other,New York,115770,Clothing,958.04,Credit Card,True
+34,Female,Los Angeles,82148,Home,184.33,PayPal,True
+44,Male,San Jose,129267,Beauty,484.98,Credit Card,False
+38,Female,San Antonio,96902,Clothing,939.15,Credit Card,True
+40,Female,Dallas,145109,Sports,1456.04,Credit Card,False
+34,Male,Phoenix,102696,Home,603.88,Credit Card,False
+47,Male,San Diego,44530,Sports,190.77,Credit Card,True
+51,Female,San Jose,82373,Electronics,353.65,Debit Card,False
+43,Female,New York,90358,Sports,458.35,Credit Card,False
+41,Female,Dallas,130330,Clothing,69.47,UPI,True
+26,Male,Chicago,49780,Beauty,31.03,UPI,False
+37,Other,Los Angeles,121723,Electronics,409.62,PayPal,True
+34,Female,Houston,106422,Home,237.69,PayPal,False
+54,Other,Chicago,129724,Clothing,283.16,UPI,False
+52,Male,Dallas,38315,Clothing,176.97,PayPal,True
+37,Female,Dallas,121142,Clothing,838.21,Credit Card,False
+50,Other,Houston,149822,Electronics,515.31,UPI,True
+36,Male,New York,139852,Clothing,1350.9,PayPal,False
+59,Other,Los Angeles,84616,Home,559.38,Debit Card,False
+60,Other,San Diego,77366,Electronics,247.15,Credit Card,True
+40,Other,Philadelphia,48301,Sports,381.56,UPI,True
+35,Other,Houston,76640,Sports,246.11,UPI,False
+46,Female,Houston,71364,Home,68.97,PayPal,True
+27,Male,Philadelphia,145428,Beauty,702.53,PayPal,True
+49,Male,Philadelphia,111306,Clothing,474.57,Debit Card,False
+41,Female,Phoenix,71312,Clothing,366.25,Credit Card,True
+47,Male,Philadelphia,111333,Sports,464.82,UPI,False
+43,Female,San Jose,53446,Clothing,406.69,UPI,True
+39,Other,Chicago,41228,Sports,35.45,Credit Card,False
+41,Female,Dallas,129126,Beauty,598.46,Credit Card,True
+35,Other,Los Angeles,80790,Clothing,224.76,Debit Card,True
+48,Other,Chicago,88746,Beauty,41.03,UPI,False
+44,Other,Chicago,52719,Home,556.48,Debit Card,False
+42,Female,Houston,47229,Home,133.64,Debit Card,True
+25,Other,Phoenix,92141,Beauty,155.14,Credit Card,True
+50,Male,New York,149822,Sports,1104.94,Credit Card,False
+42,Female,New York,133124,Home,52.28,Debit Card,True
+46,Other,San Jose,125872,Sports,977.59,Debit Card,False
+43,Other,San Antonio,86386,Home,168.54,UPI,False
+46,Other,San Diego,109512,Clothing,1130.28,Debit Card,True
+49,Male,Los Angeles,57601,Home,307.99,PayPal,True
+21,Female,Phoenix,97030,Home,533.96,Credit Card,True
+62,Male,San Antonio,97727,Home,704.47,Debit Card,True
+60,Other,San Jose,86394,Beauty,609.0,Credit Card,True
+52,Other,Houston,127905,Electronics,146.4,UPI,True
+54,Female,Los Angeles,98920,Home,436.6,UPI,True
+30,Female,Houston,141067,Home,418.18,Debit Card,False
+19,Female,San Antonio,30011,Sports,93.0,PayPal,False
+52,Male,San Jose,67611,Clothing,628.65,Credit Card,False
+35,Female,Dallas,92078,Beauty,399.76,Credit Card,False
+43,Male,San Diego,65788,Clothing,434.69,Credit Card,False
+60,Female,Dallas,79575,Clothing,122.31,UPI,False
+28,Female,Philadelphia,47675,Beauty,76.17,Credit Card,True
+18,Other,Dallas,76945,Electronics,380.16,Credit Card,False
+33,Female,Phoenix,33266,Clothing,265.75,Debit Card,True
+54,Other,San Diego,137360,Home,260.61,PayPal,False
+60,Other,Los Angeles,80652,Beauty,373.32,Credit Card,False
+51,Female,San Jose,63371,Electronics,124.41,Debit Card,False
+27,Other,San Diego,56423,Sports,320.11,UPI,False
+42,Male,Dallas,36173,Home,332.58,Credit Card,False
+41,Male,New York,37091,Electronics,511.75,UPI,False
+39,Other,San Jose,34045,Electronics,144.54,Debit Card,False
+62,Female,San Diego,149822,Clothing,851.8,UPI,True
+27,Other,Houston,61328,Home,13.85,Credit Card,False
+26,Female,New York,149822,Clothing,344.75,UPI,True
+49,Male,New York,133681,Clothing,1330.27,Credit Card,True
+39,Other,New York,112321,Electronics,969.28,PayPal,False
+40,Male,Chicago,60919,Clothing,680.1,UPI,True
+39,Male,New York,106838,Beauty,596.52,PayPal,False
+39,Female,Los Angeles,85303,Electronics,33.55,PayPal,True
+19,Male,San Jose,73850,Sports,211.57,Credit Card,False
+47,Male,San Antonio,66069,Electronics,141.54,UPI,True
+29,Other,San Jose,143455,Sports,381.5,PayPal,True
+29,Male,San Diego,89058,Beauty,310.8,PayPal,False
+41,Female,Houston,95980,Clothing,267.21,Credit Card,True
+37,Female,New York,33132,Electronics,179.13,PayPal,False
+25,Other,Philadelphia,112210,Beauty,312.91,Credit Card,False
+18,Other,San Jose,67392,Clothing,118.31,Credit Card,False
+45,Female,San Antonio,109031,Clothing,48.22,PayPal,False
+33,Female,New York,96328,Home,44.81,Debit Card,False
+50,Male,Chicago,95942,Sports,105.82,PayPal,True
+44,Female,Philadelphia,148728,Clothing,1050.14,UPI,True
+38,Female,Philadelphia,121973,Clothing,480.41,PayPal,True
+36,Male,Philadelphia,75442,Sports,739.22,PayPal,True
+50,Other,San Diego,30011,Sports,146.67,PayPal,True
+25,Male,Philadelphia,30011,Sports,98.66,UPI,False
+52,Other,New York,138037,Electronics,652.3,Credit Card,True
+55,Other,San Jose,123589,Home,1072.67,PayPal,False
+54,Other,Phoenix,65218,Electronics,121.26,PayPal,True
+39,Male,Dallas,76239,Home,525.76,Debit Card,True
+41,Other,San Jose,55446,Clothing,333.89,Credit Card,False
+42,Male,Houston,101699,Home,886.92,UPI,True
+49,Other,Chicago,112348,Electronics,28.9,PayPal,False
+51,Female,Philadelphia,128651,Clothing,526.74,Credit Card,True
+47,Male,San Jose,149822,Home,723.11,PayPal,True
+34,Female,San Diego,74055,Home,445.21,Debit Card,False
+31,Other,New York,102778,Clothing,479.17,UPI,False
+33,Female,San Antonio,76642,Electronics,463.4,Credit Card,True
+28,Male,Chicago,48600,Beauty,227.75,PayPal,False
+24,Other,Dallas,38060,Electronics,162.19,UPI,False
+43,Male,Chicago,114984,Electronics,1100.52,Credit Card,True
+36,Male,Dallas,55432,Clothing,411.97,PayPal,False
+27,Male,Dallas,83036,Home,886.73,Credit Card,False
+42,Other,Los Angeles,128115,Clothing,1268.51,PayPal,True
+31,Female,Chicago,60518,Beauty,367.81,Credit Card,False
+46,Male,San Jose,149822,Electronics,357.23,Credit Card,True
+39,Other,San Diego,73175,Beauty,370.4,Credit Card,False
+22,Female,New York,146251,Electronics,171.91,Credit Card,True
+36,Male,Houston,116425,Clothing,827.97,PayPal,True
+33,Other,Dallas,90425,Home,608.06,Credit Card,False
+63,Male,Houston,105359,Beauty,125.41,PayPal,False
+51,Female,Phoenix,108964,Beauty,1172.2,UPI,False
+20,Other,New York,72864,Clothing,500.3,UPI,False
+31,Female,San Diego,149822,Sports,656.24,PayPal,False
+32,Male,Phoenix,30011,Clothing,199.71,Debit Card,True
+65,Male,New York,89818,Home,613.64,PayPal,False
+27,Other,Dallas,47347,Clothing,357.36,Credit Card,False
+59,Other,Phoenix,71975,Clothing,781.98,Debit Card,True
+65,Female,Houston,93100,Beauty,105.17,Debit Card,False
+21,Other,Phoenix,72474,Clothing,383.79,PayPal,False
+22,Other,Chicago,83751,Beauty,291.37,UPI,False
+52,Other,San Jose,49678,Clothing,453.59,UPI,False
+54,Other,San Antonio,39516,Home,187.96,Debit Card,True
+22,Male,Los Angeles,113104,Clothing,543.27,PayPal,False
+26,Other,San Antonio,60593,Home,324.03,PayPal,True
+27,Other,Phoenix,120801,Home,982.93,Credit Card,False
+43,Other,Philadelphia,30454,Beauty,15.3,UPI,False
+34,Male,Houston,149822,Clothing,105.03,PayPal,True
+23,Female,Phoenix,97785,Electronics,563.42,Credit Card,False
+58,Female,Phoenix,90955,Sports,258.37,UPI,True
+56,Male,San Jose,149506,Electronics,704.32,PayPal,True
+65,Male,Chicago,82643,Electronics,407.2,PayPal,False
+50,Female,Dallas,30011,Home,71.12,Credit Card,True
+24,Female,San Antonio,38339,Home,196.7,Credit Card,True
+43,Female,Houston,41183,Sports,119.0,UPI,True
+45,Male,San Diego,86665,Sports,168.45,PayPal,True
+30,Other,San Diego,100342,Clothing,759.55,UPI,False
+59,Female,Philadelphia,89290,Beauty,578.27,UPI,True
+55,Other,Houston,43095,Clothing,93.17,Debit Card,True
+63,Male,San Diego,100022,Electronics,256.92,PayPal,False
+47,Female,Houston,143684,Home,705.96,Credit Card,True
+45,Other,San Diego,110342,Sports,123.61,PayPal,True
+34,Female,Houston,32242,Home,16.36,PayPal,True
+47,Male,Dallas,83502,Home,662.87,Credit Card,False
+28,Other,San Diego,89979,Electronics,721.89,Credit Card,True
+48,Female,San Antonio,76597,Home,793.44,PayPal,True
+51,Female,San Diego,65366,Sports,338.01,UPI,True
+41,Male,Dallas,103581,Sports,867.46,Debit Card,False
+45,Female,Dallas,65250,Home,547.45,Credit Card,True
+41,Male,San Antonio,142452,Clothing,1142.93,PayPal,False
+36,Female,Philadelphia,119109,Home,614.98,Credit Card,True
+40,Female,Los Angeles,68472,Beauty,66.78,PayPal,True
+46,Other,San Diego,63077,Clothing,350.75,Debit Card,True
+33,Male,Dallas,127119,Sports,1137.48,UPI,True
+40,Male,San Diego,149822,Home,346.25,UPI,True
+49,Female,Phoenix,103325,Sports,858.31,Debit Card,True
+40,Male,Chicago,136947,Home,654.89,Credit Card,False
+34,Male,Los Angeles,36466,Electronics,193.97,UPI,True
+21,Female,New York,98884,Beauty,39.22,Credit Card,False
+39,Other,San Diego,30011,Electronics,291.58,UPI,True
+52,Male,New York,99967,Home,1030.42,Credit Card,False
+53,Other,San Jose,111850,Home,762.43,PayPal,False
+31,Female,Phoenix,143451,Clothing,1152.24,PayPal,False
+50,Male,Chicago,36982,Sports,250.53,UPI,True
+65,Male,San Jose,115474,Sports,315.17,Debit Card,True
+48,Other,Dallas,44954,Home,98.29,Credit Card,True
+58,Other,Phoenix,116947,Beauty,1300.45,UPI,True
+23,Female,Chicago,114605,Clothing,214.88,UPI,False
+44,Male,Phoenix,46295,Home,275.75,PayPal,False
+35,Other,New York,118899,Beauty,145.4,UPI,False
+37,Female,San Diego,95364,Clothing,640.15,Debit Card,False
+49,Male,San Jose,36232,Clothing,159.02,PayPal,True
+35,Male,San Jose,71496,Clothing,199.85,Credit Card,False
+54,Female,San Antonio,91377,Sports,755.99,Credit Card,False
+26,Other,Dallas,40517,Home,305.98,PayPal,True
+26,Female,Phoenix,73284,Electronics,496.02,PayPal,False
+39,Male,Dallas,73958,Sports,351.65,UPI,True
+38,Male,Houston,62836,Clothing,596.87,Credit Card,False
+53,Male,Houston,144929,Sports,357.82,UPI,True
+32,Male,Philadelphia,58072,Home,364.93,Debit Card,False
+45,Male,San Jose,34626,Beauty,56.58,Debit Card,True
+26,Female,Los Angeles,90590,Clothing,592.66,PayPal,True
+65,Male,Chicago,63564,Electronics,166.69,UPI,True
+53,Female,Dallas,52379,Home,497.93,Debit Card,False
+39,Female,Dallas,113339,Home,476.82,PayPal,False
+57,Other,New York,129230,Home,749.38,UPI,True
+61,Other,San Diego,99928,Clothing,423.11,Credit Card,False
+29,Female,San Diego,63257,Home,162.15,Debit Card,False
+33,Male,Phoenix,149822,Clothing,1333.15,Credit Card,True
+55,Female,San Diego,49439,Beauty,582.37,UPI,True
+18,Other,San Jose,35696,Electronics,53.47,Credit Card,False
+65,Other,New York,84003,Sports,115.62,Debit Card,False
+29,Male,Phoenix,118952,Electronics,65.14,UPI,False
+46,Other,Philadelphia,45639,Beauty,45.24,Credit Card,True
+18,Female,New York,124009,Sports,596.28,PayPal,False
+45,Other,San Antonio,103290,Clothing,595.24,Debit Card,True
+38,Male,Chicago,131149,Electronics,970.17,UPI,False
+18,Male,San Jose,111523,Electronics,619.12,Credit Card,False
+50,Female,Houston,140718,Home,1456.04,PayPal,False
+34,Other,Chicago,63735,Beauty,337.86,Credit Card,True
+43,Female,New York,128465,Home,1284.94,Debit Card,False
+49,Female,San Diego,136398,Sports,783.89,PayPal,False
+42,Female,San Jose,98048,Beauty,478.99,Debit Card,True
+39,Male,Philadelphia,89511,Electronics,88.6,PayPal,False
+39,Female,San Antonio,57136,Sports,91.73,PayPal,True
+42,Other,Philadelphia,106704,Clothing,228.93,PayPal,False
+55,Male,Los Angeles,51597,Clothing,455.13,Credit Card,False
+48,Male,Los Angeles,100312,Home,271.0,Debit Card,False
+40,Male,New York,74423,Beauty,831.87,PayPal,True
+42,Male,New York,78880,Home,34.32,PayPal,True
+53,Female,Chicago,82309,Clothing,253.36,PayPal,False
+34,Male,Phoenix,69813,Beauty,334.71,UPI,False
+49,Other,San Diego,55464,Beauty,104.75,UPI,True
+62,Male,San Diego,120346,Sports,718.45,UPI,False
+45,Other,Los Angeles,103860,Home,152.66,PayPal,False
+41,Male,San Antonio,137112,Electronics,551.72,PayPal,True
+32,Male,Phoenix,112897,Sports,780.5,UPI,False
+50,Male,Los Angeles,120223,Beauty,209.82,UPI,False
+34,Female,Philadelphia,122342,Clothing,607.04,Debit Card,True
+65,Female,Chicago,76694,Home,282.45,Credit Card,False
+65,Other,New York,50435,Electronics,99.36,Debit Card,False
+65,Female,Philadelphia,132298,Clothing,178.0,Debit Card,False
+33,Other,Philadelphia,125197,Clothing,272.73,Debit Card,True
+61,Male,New York,94843,Clothing,592.83,UPI,True
+40,Female,Houston,128445,Electronics,573.24,Credit Card,False
+52,Male,San Diego,44727,Sports,276.57,UPI,False
+37,Female,Los Angeles,82393,Electronics,183.55,Credit Card,False
+65,Other,New York,74495,Clothing,439.15,PayPal,False
+58,Male,San Jose,80303,Electronics,203.29,Debit Card,False
+26,Other,San Diego,126273,Electronics,1020.33,UPI,False
+29,Male,Dallas,62960,Sports,109.76,Credit Card,False
+44,Female,San Jose,78166,Clothing,214.79,Debit Card,False
+43,Female,Philadelphia,125765,Beauty,1204.95,UPI,True
+37,Other,San Diego,108703,Electronics,992.71,PayPal,False
+58,Female,New York,67793,Electronics,234.26,UPI,True
+38,Other,Philadelphia,88899,Beauty,677.98,UPI,True
+42,Female,Dallas,77764,Home,104.66,Debit Card,True
+65,Other,Chicago,56300,Sports,173.9,UPI,True
+46,Male,San Antonio,124367,Home,1361.34,Credit Card,False
+62,Other,San Diego,31928,Clothing,17.98,PayPal,True
+31,Female,San Antonio,94892,Electronics,305.02,Debit Card,False
+22,Male,San Diego,75281,Clothing,51.87,PayPal,True
+58,Male,Dallas,102397,Sports,262.9,PayPal,False
+50,Other,New York,76193,Sports,355.42,UPI,True
+65,Male,Philadelphia,116449,Home,602.96,Debit Card,False
+18,Other,San Jose,56993,Clothing,244.74,UPI,True
+65,Female,Dallas,66280,Clothing,143.69,Debit Card,True
+50,Male,Los Angeles,138286,Electronics,1224.05,Credit Card,False
+35,Male,San Antonio,91551,Beauty,90.15,Credit Card,True
+63,Male,Chicago,78738,Home,67.61,PayPal,True
+18,Male,San Jose,57180,Electronics,187.3,Debit Card,False
+37,Female,Dallas,44016,Home,169.77,Debit Card,True
+36,Other,Dallas,136438,Sports,376.0,UPI,True
+62,Male,New York,75174,Home,60.35,PayPal,True
+64,Other,San Jose,134264,Electronics,1340.31,Credit Card,False
+40,Female,Chicago,94129,Clothing,583.37,Credit Card,False
+44,Female,San Diego,42228,Home,337.09,PayPal,True
+29,Male,Los Angeles,127388,Clothing,518.63,PayPal,False
+30,Other,San Diego,134267,Sports,803.03,UPI,False
+55,Male,Dallas,126280,Sports,831.28,PayPal,True
+55,Female,Dallas,93071,Home,212.26,PayPal,True
+29,Female,New York,97690,Home,34.48,UPI,False
+65,Other,Dallas,103871,Home,226.99,PayPal,True
+23,Female,San Antonio,104095,Clothing,405.94,UPI,False
+58,Female,San Jose,64813,Beauty,336.3,Credit Card,False
+55,Other,Los Angeles,130221,Clothing,665.24,PayPal,False
+19,Female,Chicago,133088,Electronics,586.17,Credit Card,False
+55,Male,San Diego,124318,Beauty,115.43,PayPal,False
+61,Female,Philadelphia,102589,Electronics,691.56,PayPal,True
+18,Other,Chicago,63150,Electronics,80.98,Credit Card,True
+36,Male,San Jose,48620,Electronics,170.68,Debit Card,False
+65,Female,Houston,82717,Clothing,225.7,PayPal,True
+47,Female,Dallas,149822,Sports,855.89,PayPal,True
+48,Male,San Jose,50916,Sports,285.25,Credit Card,False
+24,Male,Houston,63666,Electronics,297.56,Credit Card,True
+46,Other,Chicago,125331,Beauty,797.51,UPI,False
+32,Male,Dallas,149822,Beauty,1456.04,Debit Card,False
+18,Female,New York,84106,Home,598.9,PayPal,True
+24,Female,Dallas,130862,Electronics,372.09,Credit Card,True
+61,Female,Dallas,59667,Electronics,108.2,UPI,True
+41,Male,Chicago,52218,Sports,292.35,Debit Card,True
+49,Male,San Jose,117640,Beauty,370.46,PayPal,False
+60,Other,Houston,149822,Electronics,767.24,Debit Card,False
+27,Male,New York,121843,Home,920.38,UPI,False
+44,Male,Dallas,92678,Home,676.15,Credit Card,False
+62,Other,Chicago,37212,Electronics,102.22,Debit Card,False
+51,Other,Dallas,100771,Home,123.51,UPI,True
+43,Male,Dallas,133936,Sports,1027.42,Credit Card,True
+27,Female,New York,59430,Clothing,285.23,Debit Card,False
+27,Other,Los Angeles,42360,Home,342.84,UPI,False
+48,Female,Houston,140960,Sports,1087.6,UPI,True
+28,Male,Dallas,101396,Sports,376.38,UPI,True
+34,Male,New York,67085,Sports,234.89,Credit Card,True
+35,Male,Houston,50452,Electronics,106.24,Debit Card,False
+35,Male,Los Angeles,130956,Sports,493.82,Debit Card,False
+28,Female,San Diego,44106,Clothing,282.45,Debit Card,False
+18,Other,Dallas,104389,Beauty,131.32,Credit Card,True
+37,Male,Dallas,30011,Clothing,261.73,Credit Card,True
+38,Male,Philadelphia,138059,Clothing,589.81,Credit Card,True
+48,Male,Phoenix,112929,Electronics,460.95,Credit Card,True
+50,Other,San Diego,131499,Electronics,1456.04,Credit Card,False
+33,Other,San Jose,65180,Sports,676.71,Credit Card,False
+60,Other,San Diego,40807,Home,251.44,UPI,True
+38,Other,Dallas,80458,Home,863.23,UPI,True
+44,Male,Los Angeles,118252,Home,183.62,PayPal,True
+42,Female,Phoenix,69912,Clothing,159.57,PayPal,False
+36,Female,San Jose,80852,Home,819.44,PayPal,True
+65,Male,San Antonio,102364,Clothing,352.43,PayPal,False
+52,Female,Dallas,127058,Sports,1049.78,PayPal,True
+57,Other,Philadelphia,135543,Beauty,708.54,UPI,False
+31,Male,San Diego,112278,Home,215.13,Credit Card,False
+42,Male,Los Angeles,149822,Home,861.89,UPI,True
+65,Male,New York,149822,Electronics,781.95,Credit Card,False
+55,Female,Houston,92046,Sports,345.09,PayPal,True
+36,Female,Dallas,30994,Beauty,31.78,Credit Card,False
+46,Male,San Diego,85353,Sports,70.77,UPI,True
+33,Male,Dallas,143559,Clothing,703.45,Debit Card,True
+38,Female,San Diego,76120,Clothing,137.94,Debit Card,False
+54,Male,Dallas,48512,Home,151.16,Debit Card,True
+57,Male,Los Angeles,86868,Electronics,681.11,PayPal,False
+43,Male,San Jose,149822,Sports,1012.2,Debit Card,False
+52,Female,San Antonio,81854,Clothing,182.65,PayPal,True
+50,Female,Chicago,77893,Home,56.75,PayPal,False
+56,Male,Dallas,30011,Electronics,124.43,Credit Card,False
+23,Male,San Antonio,118930,Home,597.34,Credit Card,True
+35,Male,New York,65199,Beauty,768.46,UPI,False
+27,Other,New York,34835,Sports,51.32,Debit Card,True
+46,Other,San Diego,130332,Electronics,1366.09,Debit Card,False
+47,Male,San Jose,73170,Clothing,455.07,Credit Card,False
+21,Male,Dallas,61817,Home,181.15,Credit Card,True
+60,Other,San Diego,93924,Home,369.9,UPI,True
+59,Female,San Diego,96060,Sports,692.06,Credit Card,True
+41,Other,Los Angeles,40645,Home,79.27,PayPal,True
+54,Other,Houston,111653,Clothing,434.97,PayPal,True
+54,Female,Los Angeles,125409,Clothing,280.01,Debit Card,True
+60,Other,San Diego,91139,Home,801.98,PayPal,False
+34,Male,Philadelphia,76896,Sports,671.59,UPI,True
+33,Female,San Diego,55287,Clothing,479.63,Debit Card,True
+65,Female,Los Angeles,96379,Electronics,156.53,Debit Card,False
+41,Other,Chicago,54978,Clothing,405.67,Debit Card,True
+47,Male,San Diego,110213,Electronics,566.08,Credit Card,True
+44,Female,San Antonio,143189,Home,400.29,PayPal,True
+23,Other,Chicago,65960,Beauty,435.91,Credit Card,True
+48,Other,San Diego,33041,Clothing,77.18,PayPal,False
+25,Female,San Diego,67536,Clothing,132.67,Debit Card,True
+29,Other,Houston,93519,Electronics,937.97,Credit Card,True
+58,Other,San Jose,80631,Clothing,45.21,Debit Card,False
+61,Other,San Jose,143314,Clothing,672.26,Debit Card,False
+30,Male,Houston,100730,Electronics,521.13,Debit Card,True
+52,Female,Phoenix,105031,Clothing,428.61,UPI,True
+55,Female,Los Angeles,124651,Sports,877.39,Debit Card,True
+18,Other,Chicago,61570,Electronics,344.01,Credit Card,True
+65,Male,Los Angeles,113235,Electronics,408.64,Credit Card,True
+28,Male,Houston,45447,Home,279.92,Credit Card,True
+53,Female,Los Angeles,40562,Electronics,90.02,Credit Card,True
+19,Female,Phoenix,41166,Sports,158.69,Credit Card,False
+41,Male,Philadelphia,77358,Sports,571.57,UPI,False
+30,Female,San Diego,123876,Electronics,975.47,Credit Card,True
+51,Female,Phoenix,48783,Clothing,77.89,Debit Card,True
+31,Other,Dallas,87481,Sports,733.26,Credit Card,True
+57,Female,Philadelphia,93514,Sports,963.85,Debit Card,False
+34,Male,San Diego,96708,Home,436.82,Debit Card,True
+39,Male,Philadelphia,36523,Beauty,20.78,PayPal,True
+60,Female,San Antonio,67523,Beauty,477.0,UPI,False
+65,Female,Dallas,58704,Clothing,35.73,Debit Card,True
+38,Other,Philadelphia,109243,Sports,422.91,UPI,True
+32,Female,Los Angeles,51894,Home,337.61,Credit Card,True
+44,Other,New York,30011,Home,7.66,Credit Card,True
+46,Other,Philadelphia,105812,Sports,1200.62,Credit Card,False
+59,Female,Chicago,89906,Home,108.13,PayPal,True
+61,Male,San Antonio,81927,Beauty,135.94,UPI,True
+18,Other,Phoenix,114647,Home,196.05,Credit Card,True
+48,Other,San Jose,35579,Clothing,256.29,PayPal,False
+44,Female,Los Angeles,99799,Clothing,146.57,UPI,True
+58,Other,San Diego,114049,Home,741.97,PayPal,False
+56,Male,Chicago,112340,Electronics,324.93,UPI,False
+54,Female,Houston,46696,Electronics,218.58,UPI,True
+45,Other,San Diego,54296,Electronics,58.92,UPI,False
+28,Female,Los Angeles,61277,Electronics,164.81,Debit Card,True
+39,Female,Houston,58792,Electronics,34.25,Debit Card,False
+65,Female,Dallas,119462,Sports,987.19,Credit Card,True
+65,Male,Dallas,71001,Beauty,226.99,Credit Card,False
+38,Male,Phoenix,120244,Beauty,594.79,UPI,False
+57,Female,Philadelphia,138927,Beauty,136.35,PayPal,True
+29,Female,New York,146405,Home,1248.05,UPI,True
+38,Female,Chicago,135537,Sports,1196.92,Credit Card,False
+26,Other,Phoenix,73032,Electronics,631.4,Credit Card,False
+31,Other,Houston,120672,Electronics,734.2,UPI,False
+54,Other,Los Angeles,92521,Home,446.83,UPI,True
+54,Other,San Diego,98493,Clothing,454.4,Credit Card,True
+32,Male,Dallas,60372,Clothing,136.36,Credit Card,True
+46,Female,Los Angeles,111567,Clothing,124.37,PayPal,True
+34,Female,Phoenix,50794,Home,194.98,Credit Card,True
+62,Male,San Jose,79760,Electronics,96.45,Debit Card,False
+54,Male,San Diego,126428,Sports,964.84,PayPal,True
+52,Female,Philadelphia,120980,Clothing,635.42,PayPal,True
+64,Female,Los Angeles,113325,Electronics,112.52,PayPal,False
+45,Male,Dallas,89498,Sports,29.8,Debit Card,False
+60,Female,San Jose,121635,Beauty,141.93,Debit Card,True
+30,Male,Houston,125285,Electronics,661.69,Credit Card,True
+24,Other,Los Angeles,85430,Clothing,565.22,PayPal,False
+45,Other,New York,132324,Beauty,886.71,Credit Card,False
+34,Male,Dallas,108628,Beauty,785.62,PayPal,False
+42,Male,Chicago,96914,Sports,864.75,UPI,True
+40,Female,Phoenix,97018,Beauty,696.44,PayPal,False
+49,Male,San Antonio,117273,Electronics,875.39,Debit Card,True
+25,Male,Phoenix,92422,Beauty,829.86,Credit Card,True
+50,Female,San Antonio,145218,Clothing,901.42,Credit Card,True
+57,Male,Houston,82594,Electronics,361.91,Debit Card,True
+25,Male,San Jose,143380,Electronics,319.86,UPI,False
+44,Male,San Antonio,101702,Clothing,176.34,PayPal,False
+28,Other,San Diego,128566,Clothing,804.82,UPI,True
+53,Other,San Jose,112996,Electronics,827.7,Credit Card,False
+18,Male,Philadelphia,91654,Home,321.09,UPI,False
+56,Male,Chicago,96070,Beauty,76.57,Credit Card,True
+63,Male,San Jose,36844,Electronics,223.23,Credit Card,True
+49,Male,Houston,114690,Beauty,305.55,Debit Card,False
+20,Other,San Jose,51647,Electronics,26.89,PayPal,False
+26,Other,Phoenix,108222,Beauty,671.75,UPI,False
+18,Male,Phoenix,92606,Sports,549.42,Credit Card,False
+39,Male,New York,121492,Sports,811.47,Credit Card,False
+49,Male,Los Angeles,81779,Home,56.08,Debit Card,False
+20,Male,San Diego,37560,Beauty,61.42,Debit Card,True
+20,Other,Los Angeles,67188,Electronics,267.41,UPI,False
+49,Other,Houston,90239,Sports,446.57,PayPal,False
+53,Other,Los Angeles,143300,Sports,793.24,Credit Card,False
+50,Male,Los Angeles,133342,Sports,552.04,Credit Card,True
+62,Male,Phoenix,113421,Home,927.69,Credit Card,False
+62,Male,Dallas,120696,Home,398.7,Credit Card,False
+64,Other,San Antonio,99955,Clothing,886.12,PayPal,False
+32,Male,New York,149822,Home,1367.71,Credit Card,False
+50,Female,Dallas,39699,Clothing,262.75,Credit Card,True
+53,Male,Los Angeles,91512,Sports,612.56,Debit Card,True
+65,Female,Los Angeles,71356,Beauty,153.87,Credit Card,True
+65,Other,Philadelphia,149822,Beauty,569.86,PayPal,True
+20,Other,Phoenix,54977,Electronics,180.6,Debit Card,False
+27,Female,San Antonio,104511,Electronics,505.65,Debit Card,True
+33,Other,San Antonio,94822,Electronics,982.84,Credit Card,True
+30,Female,Houston,79195,Beauty,248.65,Debit Card,True
+50,Other,Chicago,67826,Sports,274.29,Credit Card,True
+36,Other,San Jose,125087,Home,1205.62,Debit Card,False
+43,Male,Los Angeles,125380,Electronics,100.84,Debit Card,False
+36,Other,Dallas,149810,Beauty,1301.16,Debit Card,False
+44,Male,San Jose,52746,Electronics,646.27,Credit Card,False
+49,Male,San Jose,131991,Beauty,361.87,PayPal,True
+18,Male,San Antonio,67070,Clothing,156.53,UPI,False
+51,Female,Los Angeles,123435,Clothing,654.96,Credit Card,True
+51,Male,Dallas,30011,Home,187.12,Credit Card,True
+35,Male,Phoenix,92027,Clothing,273.72,Debit Card,False
+37,Other,San Diego,65238,Clothing,478.53,PayPal,False
+19,Female,Phoenix,100907,Clothing,561.83,Debit Card,False
+50,Male,Philadelphia,92663,Electronics,34.98,PayPal,False
+43,Other,Chicago,149822,Electronics,656.98,Credit Card,True
+61,Female,Houston,68460,Sports,239.92,Credit Card,True
+47,Female,Phoenix,46365,Home,114.28,Debit Card,True
+19,Female,Houston,104778,Home,599.74,UPI,True
+39,Other,San Diego,30011,Clothing,110.11,PayPal,False
+42,Female,San Diego,132070,Electronics,1226.8,Credit Card,False
+36,Other,New York,101562,Clothing,931.55,PayPal,True
+39,Female,Los Angeles,43479,Clothing,81.62,Credit Card,True
+43,Male,New York,118883,Clothing,131.9,UPI,False
+48,Other,San Jose,81800,Electronics,331.94,Debit Card,True
+55,Male,Dallas,71323,Home,456.88,Credit Card,True
+38,Male,Los Angeles,39179,Sports,32.2,PayPal,False
+29,Male,San Jose,123946,Home,435.3,PayPal,True
+40,Female,Phoenix,86704,Beauty,62.4,UPI,False
+62,Female,Chicago,44183,Electronics,212.43,UPI,False
+36,Other,Houston,37856,Clothing,146.2,PayPal,True
+30,Male,San Antonio,52982,Home,53.53,PayPal,True
+59,Male,Philadelphia,69283,Clothing,514.6,UPI,True
+32,Female,Dallas,131346,Clothing,83.87,Credit Card,False
+27,Other,San Diego,97221,Home,633.71,PayPal,False
+41,Female,San Antonio,91823,Clothing,729.72,Credit Card,True
+38,Female,San Diego,140236,Clothing,385.5,Credit Card,False
+38,Male,New York,145471,Sports,1339.55,PayPal,True
+58,Other,Dallas,136779,Electronics,481.37,Credit Card,False
+30,Other,Chicago,34852,Home,301.23,Debit Card,False
+65,Male,New York,81730,Electronics,521.79,UPI,True
+27,Male,Philadelphia,46419,Sports,137.31,PayPal,True
+38,Other,Phoenix,88943,Clothing,605.14,PayPal,True
+45,Female,Houston,141451,Beauty,471.95,UPI,False
+30,Female,Houston,46737,Electronics,167.7,Debit Card,True
+38,Female,Houston,118911,Beauty,246.1,Debit Card,True
+65,Male,Philadelphia,149822,Electronics,556.67,Credit Card,False
+26,Female,Houston,68908,Clothing,537.51,PayPal,False
+30,Female,Houston,136220,Clothing,620.67,UPI,False
+34,Other,San Jose,102979,Clothing,67.08,Credit Card,False
+35,Male,San Antonio,129821,Beauty,1095.86,UPI,False
+18,Other,New York,121292,Clothing,708.87,UPI,False
+40,Male,Dallas,30646,Home,64.25,Debit Card,False
+45,Female,San Antonio,114905,Sports,1245.5,Debit Card,False
+25,Female,Chicago,73857,Beauty,361.27,Credit Card,False
+54,Other,San Jose,133533,Beauty,1072.32,Debit Card,True
+18,Female,Houston,51688,Electronics,108.56,Debit Card,False
+30,Other,San Diego,133672,Sports,189.03,UPI,True
+61,Male,San Jose,45700,Sports,301.52,UPI,True
+46,Female,Los Angeles,85597,Clothing,368.92,PayPal,True
+20,Male,San Diego,85639,Clothing,423.1,Credit Card,False
+55,Other,New York,92189,Clothing,50.46,UPI,False
+38,Male,Phoenix,90901,Electronics,127.51,Credit Card,False
+25,Male,Los Angeles,62646,Electronics,28.93,Credit Card,False
+28,Male,San Jose,98208,Electronics,1145.12,Credit Card,True
+34,Female,Dallas,66436,Beauty,84.28,Credit Card,False
+46,Male,New York,47893,Sports,62.39,Credit Card,False
+40,Female,Dallas,117471,Sports,918.75,UPI,True
+29,Female,Los Angeles,60210,Home,75.6,Debit Card,False
+60,Female,Philadelphia,71561,Home,489.97,UPI,True
+38,Female,San Antonio,105203,Sports,532.15,PayPal,False
+18,Other,San Antonio,53706,Electronics,170.17,Debit Card,True
+49,Male,New York,67959,Home,10.28,PayPal,True
+61,Male,Phoenix,47081,Electronics,133.87,Credit Card,True
+27,Other,Houston,82071,Clothing,88.66,Debit Card,True
+44,Female,Chicago,149822,Clothing,1256.26,UPI,False
+43,Other,San Diego,129308,Clothing,475.29,PayPal,True
+26,Other,Chicago,119212,Clothing,699.85,Credit Card,True
+56,Female,Phoenix,68107,Clothing,49.46,Debit Card,True
+28,Male,Philadelphia,63504,Home,356.25,Debit Card,False
+54,Male,New York,66048,Electronics,330.84,Credit Card,True
+29,Female,San Diego,59702,Clothing,148.89,UPI,False
+18,Male,New York,62047,Beauty,243.87,Debit Card,False
+23,Other,San Jose,74082,Clothing,440.8,PayPal,True
+24,Other,Chicago,58360,Electronics,533.21,PayPal,True
+33,Other,New York,67961,Electronics,46.44,Debit Card,False
+22,Male,San Antonio,90915,Electronics,385.1,PayPal,True
+39,Other,New York,31605,Electronics,97.84,UPI,True
+45,Other,Dallas,69548,Home,587.16,Credit Card,False
+20,Male,Los Angeles,100823,Home,587.26,Debit Card,False
+41,Other,Houston,116898,Electronics,722.76,UPI,True
+42,Female,San Diego,65285,Home,425.17,PayPal,False
+25,Other,Dallas,66508,Clothing,254.37,Credit Card,True
+60,Female,San Diego,100284,Clothing,429.13,PayPal,True
+21,Other,Chicago,105211,Electronics,622.53,UPI,True
+64,Female,San Diego,71908,Sports,80.56,PayPal,False
+56,Female,San Diego,113509,Electronics,298.61,Credit Card,False
+26,Other,Houston,88898,Electronics,790.23,Credit Card,False
+51,Other,New York,74742,Electronics,350.1,Credit Card,False
+48,Male,Dallas,77321,Electronics,394.95,Credit Card,True
+30,Male,San Diego,87421,Electronics,645.08,Debit Card,True
+59,Other,Houston,115285,Home,537.15,Debit Card,False
+44,Other,Chicago,78386,Home,680.22,UPI,True
+34,Female,Philadelphia,59900,Sports,350.22,PayPal,True
+36,Female,San Diego,74370,Clothing,23.65,Credit Card,True
+18,Other,San Antonio,111479,Clothing,139.65,Debit Card,False
+37,Male,New York,129210,Clothing,322.67,UPI,False
+40,Other,Los Angeles,126114,Clothing,128.66,UPI,True
+54,Male,Philadelphia,119253,Beauty,154.46,Credit Card,False
+38,Male,San Jose,97845,Home,85.1,Debit Card,False
+20,Male,Dallas,109124,Clothing,148.03,UPI,False
+43,Female,San Diego,77570,Electronics,477.84,UPI,True
+30,Other,Los Angeles,126685,Clothing,631.71,UPI,False
+18,Other,San Diego,61072,Clothing,76.9,Credit Card,False
+29,Male,Phoenix,104842,Home,813.32,PayPal,False
+59,Female,Houston,65650,Clothing,13.94,Debit Card,True
+33,Female,Houston,86363,Sports,386.26,PayPal,True
+24,Female,Los Angeles,97022,Clothing,679.76,Credit Card,False
+56,Female,Houston,91638,Electronics,250.86,Credit Card,True
+48,Male,San Jose,102146,Beauty,526.52,PayPal,True
+40,Other,San Jose,64101,Beauty,59.05,Debit Card,True
+60,Other,San Antonio,64380,Home,482.69,UPI,True
+20,Female,San Diego,61414,Electronics,187.03,UPI,False
+51,Male,Phoenix,117845,Beauty,330.31,Debit Card,True
+28,Female,Philadelphia,94123,Home,731.28,Debit Card,True
+30,Female,San Jose,101952,Clothing,936.46,Credit Card,True
+32,Other,Houston,30011,Home,62.97,PayPal,False
+60,Other,Dallas,67453,Clothing,26.89,Debit Card,True
+59,Other,Los Angeles,124442,Sports,441.66,Debit Card,True
+29,Male,New York,80569,Sports,222.03,PayPal,True
+36,Other,Dallas,89986,Electronics,884.7,Credit Card,True
+65,Male,Chicago,46510,Sports,61.49,PayPal,True
+23,Female,Dallas,41555,Sports,254.07,Credit Card,True
+49,Female,Phoenix,65605,Electronics,238.91,UPI,True
+32,Other,Houston,86970,Beauty,284.05,Credit Card,False
+49,Male,San Diego,108455,Home,914.34,Debit Card,False
+54,Female,Dallas,90237,Sports,220.42,PayPal,True
+65,Male,Chicago,99075,Home,43.15,Credit Card,False
+31,Other,Chicago,69375,Home,129.98,PayPal,True
+18,Female,Phoenix,59869,Sports,205.6,PayPal,False
+50,Male,San Jose,122627,Electronics,972.12,Debit Card,True
+60,Male,Chicago,70919,Sports,628.28,PayPal,True
+41,Female,San Antonio,88729,Sports,678.22,PayPal,True
+64,Male,Los Angeles,107132,Sports,310.96,Debit Card,False
+24,Other,Chicago,58333,Home,265.3,Debit Card,False
+54,Female,Dallas,35273,Home,73.46,PayPal,False
+65,Male,San Jose,66296,Beauty,215.39,Credit Card,False
+56,Other,San Diego,124900,Clothing,597.57,PayPal,False
+27,Other,Philadelphia,38841,Beauty,283.88,UPI,False
+64,Male,Phoenix,52746,Sports,396.27,Debit Card,False
+20,Male,San Antonio,74983,Home,61.26,Credit Card,False
+49,Male,Dallas,103952,Clothing,985.36,Credit Card,True
+49,Male,Houston,65191,Electronics,604.26,UPI,False
+37,Other,Houston,82741,Sports,472.51,PayPal,True
+29,Other,San Antonio,72052,Sports,45.04,PayPal,True
+50,Other,San Antonio,104239,Clothing,132.74,PayPal,False
+36,Female,Chicago,146050,Home,1125.29,Credit Card,True
+30,Other,Dallas,49201,Clothing,54.64,Debit Card,False
+37,Female,Dallas,57990,Clothing,101.78,PayPal,False
+25,Female,Dallas,60771,Home,582.12,PayPal,False
+60,Female,San Antonio,120790,Clothing,788.58,UPI,False
+54,Other,San Antonio,132961,Sports,1456.04,PayPal,True
+32,Female,Phoenix,59910,Electronics,434.85,Credit Card,True
+38,Other,New York,58381,Beauty,92.74,Debit Card,False
+56,Male,Los Angeles,95218,Electronics,782.36,PayPal,True
+45,Male,Los Angeles,47573,Electronics,285.86,PayPal,False
+44,Male,Dallas,138876,Home,129.24,Debit Card,True
+57,Female,San Diego,126059,Sports,201.55,UPI,True
+32,Female,Dallas,110125,Sports,942.72,PayPal,True
+44,Other,Los Angeles,122986,Sports,1283.29,Debit Card,False
+32,Other,Dallas,48817,Home,192.42,PayPal,False
+60,Male,San Diego,78361,Beauty,283.25,Credit Card,True
+31,Female,Dallas,62756,Beauty,20.83,UPI,False
+47,Male,San Diego,81456,Home,214.16,PayPal,False
+52,Female,Houston,107665,Electronics,50.34,Debit Card,True
+65,Female,Houston,55992,Home,86.99,Debit Card,True
+40,Other,New York,136500,Electronics,1330.37,PayPal,False
+27,Male,Chicago,113251,Home,1039.54,UPI,False
+35,Female,Phoenix,86467,Sports,72.06,UPI,False
+50,Other,Los Angeles,130765,Home,884.83,PayPal,True
+28,Female,Los Angeles,130060,Electronics,1238.59,Debit Card,True
+50,Female,Phoenix,132441,Sports,1248.17,Debit Card,False
+37,Other,Chicago,93192,Beauty,465.79,Credit Card,True
+53,Female,Dallas,58928,Home,499.84,PayPal,True
+50,Other,San Jose,102518,Electronics,165.11,PayPal,False
+31,Other,San Antonio,71130,Beauty,234.41,UPI,False
+20,Other,Chicago,47162,Electronics,186.48,Credit Card,False
+55,Male,Los Angeles,100912,Home,439.53,PayPal,False
+49,Female,Phoenix,39057,Clothing,274.02,Debit Card,False
+23,Female,Chicago,67432,Clothing,321.87,Debit Card,True
+37,Female,San Diego,45983,Clothing,364.14,UPI,False
+32,Female,San Diego,62739,Clothing,411.09,Credit Card,True
+54,Male,Los Angeles,47873,Electronics,141.25,Debit Card,True
+47,Female,San Jose,105967,Sports,1270.64,Debit Card,False
+57,Female,Los Angeles,116411,Sports,1148.18,Credit Card,False
+29,Male,San Diego,69989,Home,202.2,Credit Card,False
+18,Male,Philadelphia,74573,Electronics,91.6,Debit Card,False
+19,Other,Los Angeles,132398,Clothing,523.61,Debit Card,False
+51,Other,Phoenix,96499,Electronics,620.87,UPI,True
+58,Other,New York,89670,Clothing,539.94,PayPal,False
+33,Other,San Antonio,47004,Clothing,92.64,PayPal,True
+25,Male,New York,53573,Sports,170.5,Debit Card,False
+47,Other,Los Angeles,96544,Electronics,394.58,Credit Card,False
+44,Other,Houston,95882,Home,84.67,Debit Card,True
+48,Female,Dallas,57793,Home,381.57,Credit Card,True
+31,Male,San Diego,94234,Electronics,96.66,PayPal,False
+37,Female,Chicago,31722,Beauty,136.76,Credit Card,True
+50,Other,San Jose,148688,Electronics,1355.55,UPI,False
+57,Other,Philadelphia,112004,Home,466.78,UPI,True
+36,Female,Houston,32419,Electronics,171.17,Debit Card,True
+38,Female,Philadelphia,118762,Beauty,829.61,Debit Card,True
+49,Other,San Diego,127187,Electronics,1106.15,Debit Card,False
+27,Male,San Antonio,85059,Home,644.91,Credit Card,True
+51,Female,San Antonio,113616,Sports,801.12,UPI,True
+44,Other,Los Angeles,89051,Electronics,257.84,Debit Card,True
+48,Female,San Antonio,53397,Home,126.71,PayPal,True
+35,Other,New York,47744,Home,88.09,UPI,True
+65,Female,Phoenix,101810,Clothing,937.5,Credit Card,False
+51,Male,Chicago,147449,Sports,134.2,Debit Card,False
+36,Other,San Diego,40205,Clothing,27.31,Credit Card,True
+46,Other,Chicago,121886,Electronics,974.59,PayPal,True
+61,Male,Chicago,137606,Beauty,358.94,Credit Card,True
+28,Male,New York,132397,Clothing,1220.84,UPI,True
+36,Other,San Jose,114932,Electronics,801.19,UPI,False
+39,Female,Houston,94999,Home,504.65,UPI,True
+51,Male,Chicago,45417,Home,412.5,Credit Card,False
+50,Female,Houston,39267,Electronics,63.63,UPI,True
+33,Female,San Diego,67163,Clothing,392.13,Credit Card,False
+56,Male,Phoenix,96909,Clothing,851.69,Credit Card,False
+33,Female,Philadelphia,60703,Clothing,453.72,Debit Card,False
+38,Other,San Antonio,74620,Electronics,27.34,UPI,True
+26,Other,Dallas,129153,Home,834.85,Debit Card,True
+44,Female,Houston,89724,Beauty,920.41,PayPal,False
+45,Female,San Diego,53800,Beauty,400.14,UPI,True
+45,Female,Phoenix,106166,Sports,551.88,UPI,True
+27,Female,Philadelphia,65185,Electronics,218.24,UPI,True
+53,Male,Los Angeles,108625,Electronics,1068.91,Debit Card,False
+28,Female,Dallas,79789,Sports,270.27,UPI,True
+55,Other,Phoenix,127418,Beauty,123.81,Credit Card,False
+37,Female,San Antonio,97821,Sports,1159.29,Credit Card,True
+58,Other,San Jose,100156,Electronics,1192.49,UPI,False
+30,Female,Chicago,149822,Electronics,550.08,PayPal,False
+43,Male,Los Angeles,59843,Electronics,463.83,UPI,False
+35,Female,Houston,52374,Sports,42.85,PayPal,True
+18,Female,Phoenix,48911,Home,348.55,UPI,False
+59,Female,Houston,53142,Sports,118.19,Debit Card,True
+46,Male,Dallas,71517,Sports,305.32,PayPal,False
+64,Male,San Antonio,87931,Home,689.95,PayPal,False
+31,Female,Houston,82349,Electronics,206.34,UPI,False
+45,Other,Los Angeles,30011,Electronics,151.49,Debit Card,True
+58,Other,Houston,88473,Sports,96.06,Debit Card,False
+23,Male,Houston,36362,Clothing,87.22,PayPal,True
+44,Female,San Diego,119726,Home,638.62,UPI,True
+23,Male,Phoenix,94888,Sports,398.11,PayPal,True
+34,Female,Los Angeles,30011,Sports,64.71,PayPal,True
+50,Other,Chicago,129372,Beauty,71.21,UPI,False
+28,Male,Los Angeles,97237,Electronics,459.66,UPI,True
+40,Female,Dallas,80787,Clothing,515.51,Credit Card,True
+60,Male,Phoenix,83310,Beauty,71.0,Debit Card,True
+55,Female,Philadelphia,125048,Electronics,605.71,Debit Card,True
+36,Female,Phoenix,97017,Beauty,913.49,UPI,False
+48,Male,New York,53602,Clothing,75.55,Debit Card,True
+33,Male,Houston,38246,Clothing,27.45,UPI,True
