@@ -1,0 +1,123 @@
+Cell 0:
+# Assignment 4: Fraud Detection using GANs
+## Unsupervised Anomaly Detection with AnoGAN and BiGAN
+
+---
+
+### 1. Overview
+
+This notebook implements and compares two Generative Adversarial Network (GAN) architectures for **unsupervised fraud detection** on the Credit Card Fraud Detection dataset:
+
+1.  **AnoGAN (Anomaly GAN)**: Detects anomalies by finding the latent noise vector $z$ that best reconstructs a given transaction. The anomaly score is a weighted combination of the reconstruction loss and a discriminator feature matching loss.
+2.  **BiGAN (Bidirectional GAN)**: Learns an inverse mapping from data $x$ back to latent space $z$ via an Encoder ($E$) trained jointly with the Generator ($G$) and Discriminator ($D$). The anomaly score is derived from the Discriminator's judgement on $(x, E(x))$ pairs.
+
+### Preprocessing Note
+It is critical to scale **Time** and **Amount** features, as they reside on significantly larger scales than the PCA-transformed $V_1-V_{28}$ features. Without scaling, these two features would disproportionately dominate the reconstruction and anomaly scores.
+
+### Project Objectives
+- Preprocess and scale the highly imbalanced dataset.
+- Implement and train stable GAN models (Generator, Discriminator, and Encoder for BiGAN).
+- Generate anomaly scores and classify transactions as normal or fraud.
+- Evaluate performance using robust metrics (AUROC, AUPRC, F1-score) suitable for imbalanced data.
+
+---
+
+---
+Cell 1:
+## 1. Setup and Imports
+---
+Cell 3:
+## 2. Data Loading and Exploratory Analysis
+---
+Cell 5:
+### 2.1 Class Distribution
+
+
+---
+Cell 7:
+### 2.2 Transaction Amount Distribution
+
+---
+Cell 9:
+### 2.3 Time Distribution
+
+---
+Cell 11:
+### Exploratory Data Analysis Insights
+
+1.  **Extreme Imbalance**: The class distribution confirms the need for anomaly detection (one-class) approaches rather than standard supervised learning, which would be biased towards the majority class.
+2.  **Feature Scaling**: The `Amount` and `Time` features show high variance and different scales compared to the normalized V1-V28 features, necessitating the robust scaling applied in the next step.
+3.  **Distribution Overlap**: Many features show significant overlap between fraud and normal transactions, suggesting that a simple linear boundary is insufficient—hence the use of deep generative models to capture the complex distribution of "normal" data.
+---
+Cell 12:
+## 3. Preprocessing
+
+Preprocessing and feature scaling are critical steps in this pipeline. The `Time` and `Amount` features exist on significantly different scales compared to the PCA-transformed features (V1-V28). Without proper normalization, these features could disproportionately dominate the anomaly scores and reconstruction errors.
+---
+Cell 14:
+---
+## 4. AnoGAN — Generative Adversarial Anomaly Detection
+
+AnoGAN detects anomalies by optimizing a latent vector $z$ to minimize a weighted sum of reconstruction loss (point-wise difference) and feature-matching loss (discriminator's intermediate layer distance).
+
+---
+Cell 20:
+### AnoGAN Evaluation Metrics
+
+---
+Cell 22:
+### AnoGAN Performance Analysis
+
+The AnoGAN model achieves detection by searching for the latent vector $z$ that best reconstructs the input. 
+- **Reconstruction Quality**: For normal transactions, the model finds a $z$ that produces a very similar output, resulting in low scores.
+- **Anomaly Scoring**: Fraudulent transactions, being out-of-distribution, cannot be accurately reconstructed even after optimization, leading to significantly higher anomaly scores.
+- **Trade-off**: While accurate, the iterative nature of the latent search makes AnoGAN computationally expensive for real-time inference on large streams of data.
+---
+Cell 23:
+---
+## 5. BiGAN — Bidirectional GAN
+
+BiGAN detects anomalies by evaluating the Discriminator's confidence on $(x, E(x))$ pairs. Since the Discriminator learns the joint distribution $P(x, z)$, the anomaly score is defined based on the discriminator's ability to distinguish the real pair $(x, E(x))$ from the generated pair $(G(z), z)$. High scores indicate samples that do not fit the learned normal distribution.
+
+---
+Cell 29:
+### BiGAN Evaluation Metrics
+
+---
+Cell 31:
+### BiGAN Performance Analysis
+
+BiGAN leverages its learned Encoder to map samples directly back to the latent space.
+- **Efficiency**: Unlike AnoGAN, BiGAN provides an immediate anomaly score via a single forward pass, making inference fast. Performance, however, depends on the score direction and quality of training.
+- **Discriminator Confidence**: The score reflects how well the pair $(x, E(x))$ matches the joint distribution of real data and its latent representation. Deviations from this joint distribution are flagged as anomalies.
+- **Stability**: The performance depends heavily on the Encoder's ability to "invert" the Generator's mapping, which is a core part of the BiGAN training objective.
+
+---
+Cell 32:
+---
+## 6. Results Comparison and Visualization
+---
+Cell 36:
+---
+## 7. Final Discussion and Strategic Analysis
+
+### Comparative Summary
+The results demonstrate the trade-offs between optimization-based and encoder-based generative anomaly detection:
+
+*   **AnoGAN** tends to provide more granular reconstruction details, which can be useful for auditing why a transaction was flagged as fraud. However, the test-time optimization remains a major bottleneck.
+*   **BiGAN** provides a more scalable solution for production systems. While it may sometimes struggle if the Encoder-Generator mapping is not perfectly bijective, its inference is fast, but the final evaluation depends on the correct score direction — whether high or low discriminator realness corresponds to anomalies.
+
+### Critical Note on Evaluation
+In the context of fraud detection, **Accuracy** is a deceptive metric. A model that predicts "Normal" for every case would achieve >99.8% accuracy but would fail to stop any fraud. Therefore, we prioritize:
+1.  **Recall (Sensitivity)**: How many of the actual frauds did we catch? (Essential for security).
+2.  **Precision**: Of the flagged transactions, how many were actually fraud? (Essential for customer experience to minimize false positives).
+3.  **F1-score**: The harmonic mean of Precision and Recall, providing a single balanced metric for model selection.
+
+### Future Work
+- **Ensemble Methods**: Combining GAN-based scores with traditional Isolation Forests or Autoencoders.
+- **Semi-Supervised Fine-tuning**: Incorporating the very small percentage of known fraud labels to refine the decision boundary.
+- **Adaptive Thresholding**: Using time-windowed statistics to adjust the anomaly threshold based on changing transaction volumes and patterns.
+
+---
+
+---
