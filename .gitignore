@@ -1,3 +1,21 @@
 .venv/
 
+# Local/raw datasets that are too large to keep in Git.
 Assignment4/creditcard.csv
+
+# Python and notebook runtime artifacts.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment and local editor files.
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+
+# Large generated model checkpoints.
+*.ckpt
+*.pt
